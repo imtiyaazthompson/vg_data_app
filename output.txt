@@ -1,0 +1,856 @@
+[
+  {
+    "id": 69359,
+    "name": "Sunken Secrets"
+  },
+  {
+    "id": 69530,
+    "name": "Dai Senryaku VII: Modern Military Tactics"
+  },
+  {
+    "id": 81332,
+    "name": "Stick Fighter II"
+  },
+  {
+    "id": 50649,
+    "genres": [
+      9,
+      26
+    ],
+    "name": "Who Wants to be a Millionaire: 1st Edition",
+    "tags": [
+      268435465,
+      268435482,
+      536873513,
+      536875051,
+      536875054,
+      536875291
+    ]
+  },
+  {
+    "id": 22618,
+    "genres": [
+      15
+    ],
+    "name": "Battleground 7: Bull Run",
+    "tags": [
+      22,
+      39,
+      268435471,
+      536872263,
+      536874694,
+      536876409
+    ]
+  },
+  {
+    "id": 104945,
+    "genres": [
+      32
+    ],
+    "name": "Woodpunk",
+    "tags": [
+      1,
+      268435488
+    ]
+  },
+  {
+    "id": 91579,
+    "name": "Racing Live"
+  },
+  {
+    "id": 22636,
+    "name": "Call of Duty: Black Ops - Annihilation",
+    "tags": [
+      39
+    ]
+  },
+  {
+    "id": 88041,
+    "genres": [
+      12,
+      31,
+      32
+    ],
+    "name": "Highway Wars",
+    "tags": [
+      268435468,
+      268435487,
+      268435488
+    ]
+  },
+  {
+    "id": 31258,
+    "genres": [
+      32
+    ],
+    "name": "Slymes",
+    "tags": [
+      1,
+      268435488
+    ]
+  },
+  {
+    "id": 95442,
+    "genres": [
+      8,
+      33
+    ],
+    "name": "Network",
+    "tags": [
+      1,
+      268435464,
+      268435489
+    ]
+  },
+  {
+    "id": 90512,
+    "name": "Asian Riddles 4"
+  },
+  {
+    "id": 105842,
+    "name": "Robots Vs Zombies: Transform To Race And Fight"
+  },
+  {
+    "id": 85450,
+    "name": "Transformers Prime: The Game"
+  },
+  {
+    "id": 104748,
+    "name": "Space station - build your own ISS"
+  },
+  {
+    "id": 111593,
+    "genres": [
+      32
+    ],
+    "name": "Oppai Puzzle",
+    "tags": [
+      42,
+      268435488,
+      536872873,
+      536874498
+    ]
+  },
+  {
+    "id": 91890,
+    "name": "Waker"
+  },
+  {
+    "id": 42610,
+    "genres": [
+      9
+    ],
+    "name": "Hebereke\u0027s Popoon",
+    "tags": [
+      27,
+      268435465,
+      536871262,
+      536873787,
+      536875122,
+      536875155,
+      536875379,
+      536880042
+    ]
+  },
+  {
+    "id": 22637,
+    "genres": [
+      15
+    ],
+    "name": "Panzer Corps",
+    "tags": [
+      268435471
+    ]
+  },
+  {
+    "id": 105254,
+    "name": "Codenames"
+  },
+  {
+    "id": 91756,
+    "name": "Aban Hawkins \u0026 the 1000 SPIKES"
+  },
+  {
+    "id": 93987,
+    "name": "Pi Story"
+  },
+  {
+    "id": 110810,
+    "genres": [
+      13,
+      32
+    ],
+    "name": "Running Naked Simulator 2019",
+    "tags": [
+      1,
+      268435469,
+      268435488
+    ]
+  },
+  {
+    "id": 101139,
+    "name": "Last Saver: Zombie Hunter Master"
+  },
+  {
+    "id": 2057,
+    "genres": [
+      10
+    ],
+    "name": "Out Run 2019",
+    "tags": [
+      18,
+      268435466,
+      536871153
+    ]
+  },
+  {
+    "id": 22643,
+    "name": "Magicka: Dungeons and Daemons"
+  },
+  {
+    "id": 108593,
+    "name": "Toot\u0027s Race"
+  },
+  {
+    "id": 93939,
+    "name": "Ranch Rush 2"
+  },
+  {
+    "id": 101814,
+    "name": "What\u0027s inside the box?"
+  },
+  {
+    "id": 75167,
+    "genres": [
+      31,
+      32
+    ],
+    "name": "DreadEye VR",
+    "tags": [
+      1,
+      42,
+      268435487,
+      268435488,
+      536872032,
+      536894667
+    ]
+  },
+  {
+    "id": 130740,
+    "name": "Deathmatch Club"
+  },
+  {
+    "id": 130741,
+    "name": "Goodbye"
+  },
+  {
+    "id": 19188,
+    "genres": [
+      5
+    ],
+    "name": "MechWarrior",
+    "tags": [
+      1,
+      268435461
+    ]
+  },
+  {
+    "id": 65654,
+    "genres": [
+      31
+    ],
+    "name": "Zettai Zetsumei Dangerous Jiisan: Naki no Ikkai",
+    "tags": [
+      268435487,
+      536871939
+    ]
+  },
+  {
+    "id": 22646,
+    "name": "Red Turn: The Road to Berlin 1943-45"
+  },
+  {
+    "id": 57729,
+    "genres": [
+      9
+    ],
+    "name": "Laserbreak: Esacpe",
+    "tags": [
+      268435465,
+      536873787
+    ]
+  },
+  {
+    "id": 29794,
+    "genres": [
+      31
+    ],
+    "name": "Mystery Case Files: The Black Veil Collector\u0027s Edition",
+    "tags": [
+      268435487
+    ]
+  },
+  {
+    "id": 66891,
+    "name": "Zoo Frenzy",
+    "tags": [
+      536871906
+    ]
+  },
+  {
+    "id": 110811,
+    "name": "PitterPot",
+    "tags": [
+      1
+    ]
+  },
+  {
+    "id": 118704,
+    "genres": [
+      4
+    ],
+    "name": "TEKKEN 7: Ultimate Edition",
+    "tags": [
+      1,
+      268435460
+    ]
+  },
+  {
+    "id": 110812,
+    "genres": [
+      9,
+      31
+    ],
+    "name": "The DOOR",
+    "tags": [
+      268435465,
+      268435487
+    ]
+  },
+  {
+    "id": 77650,
+    "name": "Super Science Friends"
+  },
+  {
+    "id": 106046,
+    "name": "Brain Challenge HD"
+  },
+  {
+    "id": 6596,
+    "genres": [
+      9,
+      15,
+      32
+    ],
+    "name": "Snood",
+    "tags": [
+      27,
+      268435465,
+      268435471,
+      268435488,
+      536871262,
+      536871878,
+      536873064,
+      536873787,
+      536874694,
+      536875941,
+      536876435
+    ]
+  },
+  {
+    "id": 94975,
+    "name": "Wubble Bubbles"
+  },
+  {
+    "id": 111710,
+    "genres": [
+      31,
+      32
+    ],
+    "name": "The Lighthouse | VR Escape Room",
+    "tags": [
+      268435487,
+      268435488
+    ]
+  },
+  {
+    "id": 14826,
+    "genres": [
+      9,
+      32
+    ],
+    "name": "Zen of Sudoku",
+    "tags": [
+      34,
+      268435465,
+      268435488,
+      536871878,
+      536872070,
+      536872205,
+      536873156,
+      536873776,
+      536873787
+    ]
+  },
+  {
+    "id": 60970,
+    "genres": [
+      31
+    ],
+    "name": "Dark Hunter: Shita Youma no Mori",
+    "tags": [
+      19,
+      268435487,
+      536871939,
+      536872032
+    ]
+  },
+  {
+    "id": 13724,
+    "name": "The Hacker"
+  },
+  {
+    "id": 99434,
+    "genres": [
+      13,
+      32
+    ],
+    "name": "Simple Golfing",
+    "tags": [
+      268435469,
+      268435488
+    ]
+  },
+  {
+    "id": 89179,
+    "name": "Super Gerball"
+  },
+  {
+    "id": 118705,
+    "name": "World of Tanks: Mercenaries - Valor Edition"
+  },
+  {
+    "id": 114732,
+    "name": "Jelly Wars"
+  },
+  {
+    "id": 118706,
+    "name": "Stellaris: Console Deluxe Edition"
+  },
+  {
+    "id": 109639,
+    "genres": [
+      13,
+      31,
+      32
+    ],
+    "name": "Beasts of Bermuda",
+    "tags": [
+      268435469,
+      268435487,
+      268435488
+    ]
+  },
+  {
+    "id": 99159,
+    "genres": [
+      15,
+      31,
+      32
+    ],
+    "name": "Dawn of the Celestialpod",
+    "tags": [
+      1,
+      268435471,
+      268435487,
+      268435488
+    ]
+  },
+  {
+    "id": 17594,
+    "genres": [
+      32
+    ],
+    "name": "Tinertia",
+    "tags": [
+      1,
+      268435488
+    ]
+  },
+  {
+    "id": 122383,
+    "genres": [
+      31,
+      32
+    ],
+    "name": "HATCH",
+    "tags": [
+      1,
+      268435487,
+      268435488
+    ]
+  },
+  {
+    "id": 101840,
+    "name": "Aisleen"
+  },
+  {
+    "id": 118916,
+    "genres": [
+      4
+    ],
+    "name": "ACA NEOGEO ART OF FIGHTING 3",
+    "tags": [
+      1,
+      268435460,
+      536871019
+    ]
+  },
+  {
+    "id": 99566,
+    "name": "Arcade Archives Cosmo Police Galivan",
+    "tags": [
+      1
+    ]
+  },
+  {
+    "id": 37439,
+    "genres": [
+      12,
+      15
+    ],
+    "name": "Hunter X Hunter: Michibi Kareshi Mono",
+    "tags": [
+      268435468,
+      268435471,
+      536870990,
+      536874694,
+      536875053,
+      536875054
+    ]
+  },
+  {
+    "id": 61103,
+    "genres": [
+      9,
+      31
+    ],
+    "name": "Mystery of the Lost Temples",
+    "tags": [
+      268435465,
+      268435487,
+      536871878,
+      536871939,
+      536872328,
+      536873787,
+      536875046,
+      536875422,
+      536876085
+    ]
+  },
+  {
+    "id": 106247,
+    "name": "Karaoke Revolution: American Idol Encore"
+  },
+  {
+    "id": 89148,
+    "name": "Royal Princess Makeover"
+  },
+  {
+    "id": 68337,
+    "genres": [
+      15,
+      31
+    ],
+    "name": "Mission: Impossible",
+    "tags": [
+      1,
+      268435471,
+      268435487,
+      536871044,
+      536871413,
+      536872131,
+      536872347,
+      536872690,
+      536873064,
+      536873949,
+      536875054,
+      536875258,
+      536875262,
+      536875305,
+      536875325,
+      536875335,
+      536875642,
+      536876348,
+      536876586,
+      536876652,
+      536876694,
+      536877170,
+      536877501,
+      536884032
+    ]
+  },
+  {
+    "id": 90430,
+    "name": "Bricking in America"
+  },
+  {
+    "id": 70593,
+    "name": "Rilakkuma"
+  },
+  {
+    "id": 95081,
+    "name": "Soccer Rally Arena"
+  },
+  {
+    "id": 99578,
+    "name": "Mini Golf MatchUp"
+  },
+  {
+    "id": 127152,
+    "genres": [
+      13,
+      31,
+      32
+    ],
+    "name": "I Am Jesus Christ"
+  },
+  {
+    "id": 126945,
+    "genres": [
+      13,
+      32
+    ],
+    "name": "BeatAim"
+  },
+  {
+    "id": 130747,
+    "name": "Progress Bar Simulator"
+  },
+  {
+    "id": 130744,
+    "name": "Cartoon Cartoon Summer Resort"
+  },
+  {
+    "id": 130742,
+    "name": "Flashy Maze"
+  },
+  {
+    "id": 130746,
+    "name": "Social Club VR : Casino Nights"
+  },
+  {
+    "id": 130745,
+    "name": "TS Online Mobile"
+  },
+  {
+    "id": 118708,
+    "name": "The Crew 2 - Digital Deluxe Edition"
+  },
+  {
+    "id": 122756,
+    "name": "Marvel Realm of Champions"
+  },
+  {
+    "id": 79315,
+    "name": "Alien\u0027s Return"
+  },
+  {
+    "id": 101910,
+    "name": "Sugar, sugar 3"
+  },
+  {
+    "id": 61154,
+    "genres": [
+      15
+    ],
+    "name": "Lead to Fire",
+    "tags": [
+      268435471,
+      536871029,
+      536874694,
+      536875046,
+      536875074,
+      536876228
+    ]
+  },
+  {
+    "id": 42185,
+    "genres": [
+      8
+    ],
+    "name": "Burger Builder",
+    "tags": [
+      1,
+      268435464
+    ]
+  },
+  {
+    "id": 65560,
+    "genres": [
+      13
+    ],
+    "name": "Germany\u0027s Next Top Model 2011",
+    "tags": [
+      268435469,
+      536872060,
+      536875054,
+      536875140,
+      536875291,
+      536881611
+    ]
+  },
+  {
+    "id": 118709,
+    "name": "Far Cry 5 - Digital Deluxe Edition"
+  },
+  {
+    "id": 70829,
+    "name": "A Walk In The Park"
+  },
+  {
+    "id": 124960,
+    "name": "Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg"
+  },
+  {
+    "id": 94831,
+    "name": "Lines"
+  },
+  {
+    "id": 96085,
+    "name": "Rocky Climb"
+  },
+  {
+    "id": 8959,
+    "genres": [
+      8,
+      32
+    ],
+    "name": "Mutant Mudds Deluxe",
+    "tags": [
+      1,
+      17,
+      268435464,
+      268435488,
+      536871038,
+      536871298,
+      536872175,
+      536873810,
+      536888127,
+      536888348,
+      536891002,
+      536891003
+    ]
+  },
+  {
+    "id": 89713,
+    "name": "Modern Conflict 2"
+  },
+  {
+    "id": 113314,
+    "genres": [
+      10,
+      13,
+      14,
+      32
+    ],
+    "name": "Hill Racing",
+    "tags": [
+      268435466,
+      268435469,
+      268435470,
+      268435488
+    ]
+  },
+  {
+    "id": 91755,
+    "name": "Takt of Magic"
+  },
+  {
+    "id": 97037,
+    "genres": [
+      13,
+      32
+    ],
+    "name": "LOVE Obsession VR"
+  },
+  {
+    "id": 108614,
+    "name": "Leo Spanish Spelling Complete"
+  },
+  {
+    "id": 8707,
+    "genres": [
+      2,
+      9,
+      31
+    ],
+    "name": "Déjà Vu II: Lost in Las Vegas",
+    "tags": [
+      20,
+      268435458,
+      268435465,
+      268435487,
+      536871109,
+      536871115,
+      536871127,
+      536871533,
+      536871878,
+      536871926,
+      536871939,
+      536871991,
+      536872070,
+      536872222,
+      536872286,
+      536872328,
+      536872647,
+      536872715,
+      536872983,
+      536873787,
+      536875080,
+      536875130,
+      536875242,
+      536875330,
+      536875518,
+      536875832,
+      536876482,
+      536876674,
+      536878320,
+      536879190,
+      536880769
+    ]
+  },
+  {
+    "id": 24244,
+    "name": "Memorick: The Apprentice Knight"
+  },
+  {
+    "id": 106259,
+    "name": "Winning Eleven X"
+  },
+  {
+    "id": 105093,
+    "genres": [
+      32
+    ],
+    "name": "MUTATION PHASE",
+    "tags": [
+      1,
+      268435488
+    ]
+  },
+  {
+    "id": 118580,
+    "genres": [
+      12,
+      15,
+      32
+    ],
+    "name": "Jey\u0027s Empire",
+    "tags": [
+      268435468,
+      268435471,
+      268435488
+    ]
+  }
+]
