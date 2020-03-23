@@ -1,6 +1,7 @@
 # Return a `fields` query
 def generate_request(req_data, keyword, delim):
-	return '{} {};'.format(keyword, delim.join(req_data))
+	r =  '{} {};'.format(keyword, delim.join(req_data))
+	return r
 
 def generate_exclusion(excl_data):
 	return generate_request(excl_data,'exclude',',')
@@ -50,6 +51,21 @@ def generate_sort(field, order):
 def generate_search(column,search_str):
 	c = [column,search_str]
 	return generate_request(c,'search',' ')
+
+def compile_query(data):
+	fields = data['fields'].split(',')
+	data_f = data['data'].split(',')
+	constraints = data['constraints'].split(',')
+	logic = data['logic']
+	limit = data['limit']
+	offset = data['offset']
+	sort = data['sort']
+	order = data['order']
+	print(fields)
+
+	r = generate_fields(fields) + generate_filter(data_f,constraints,logic) + generate_limit(limit) + generate_offset(offset) + generate_sort(sort,order)
+	print(r)
+	return r
 
 
 def main():

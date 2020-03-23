@@ -1,4 +1,5 @@
 import requests as req
+import apicalypse_python as apic
 
 API = 'https://api-v3.igdb.com'
 KEY = 'cda00748d56ce784ef194c4634310970'
@@ -54,8 +55,8 @@ def test_endpoint(endpoint):
 	The games endpoint has fields with numerical values - IDs
 	that must be used to extrapolate data from other endpoints
 '''
-def post_to(endpoint):
-	response = req.post(API + endpoint, headers=REQ_HEAD, data="fields name,genres,tags; where name \"Final Fantasy\";")
+def post_to(endpoint, body):
+	response = req.post(API + endpoint, headers=REQ_HEAD, data="fields name;limit 25;")
 	print(response.status_code)
 	return response
 
@@ -68,8 +69,19 @@ def dump_endpoint(response, fname):
 def jsonify(response):
 	return response.json()
 
-data = {
-	'fields':['name']
-}
-r = post_to(ENDPOINT['games']) 
+def build_req_body(fields,data,constraints,logic,limit,offset,sort,order):
+	body = {}
+	body['fields'] = fields
+	body['data'] = data
+	body['constraints'] = constraints
+	body['logic'] = logic
+	body['limit'] = limit
+	body['offset'] = offset
+	body['sort'] = sort
+	body['order'] = order
+	return body
+
+data = build_req_body('name,rating','rating','> 75','',10,0,'rating','asc')
+request_body = apic.compile_query(data)
+r = post_to(ENDPOINT['games'], request_body) 
 dump_endpoint(r.text, 'output.txt')
