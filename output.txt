@@ -1,102 +1,178 @@
 [
   {
-    "id": 69359,
-    "name": "Sunken Secrets"
+    "id": 2267,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      },
+      {
+        "id": 10,
+        "slug": "racing"
+      },
+      {
+        "id": 31,
+        "slug": "adventure"
+      }
+    ],
+    "name": "Sonic Colors"
   },
   {
-    "id": 69530,
-    "name": "Dai Senryaku VII: Modern Military Tactics"
+    "id": 4157,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      },
+      {
+        "id": 9,
+        "slug": "puzzle"
+      }
+    ],
+    "name": "Sonic Mega Collection"
   },
   {
-    "id": 81332,
-    "name": "Stick Fighter II"
+    "id": 4499,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 9,
+        "slug": "puzzle"
+      },
+      {
+        "id": 15,
+        "slug": "strategy"
+      },
+      {
+        "id": 33,
+        "slug": "arcade"
+      }
+    ],
+    "name": "Dr. Robotnik\u0027s Mean Bean Machine"
   },
   {
-    "id": 50649,
-    "name": "Who Wants to be a Millionaire: 1st Edition"
+    "id": 5165,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 10,
+        "slug": "racing"
+      }
+    ],
+    "name": "Sonic \u0026 Sega All-Stars Racing"
   },
   {
-    "id": 22618,
-    "name": "Battleground 7: Bull Run"
+    "id": 5322,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      },
+      {
+        "id": 31,
+        "slug": "adventure"
+      }
+    ],
+    "name": "Sonic Boom: Rise of Lyric"
   },
   {
-    "id": 104945,
-    "name": "Woodpunk"
+    "id": 7189,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      },
+      {
+        "id": 33,
+        "slug": "arcade"
+      }
+    ],
+    "name": "Sonic\u0027s Ultimate Genesis Collection"
   },
   {
-    "id": 91579,
-    "name": "Racing Live"
+    "id": 7861,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      },
+      {
+        "id": 31,
+        "slug": "adventure"
+      }
+    ],
+    "name": "Sonic Adventure DX: Director\u0027s Cut"
   },
   {
-    "id": 22636,
-    "name": "Call of Duty: Black Ops - Annihilation"
+    "id": 7862,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      },
+      {
+        "id": 31,
+        "slug": "adventure"
+      }
+    ],
+    "name": "Sonic Adventure 2: Battle"
   },
   {
-    "id": 88041,
-    "name": "Highway Wars"
+    "id": 8502,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      }
+    ],
+    "name": "Sonic Jump Fever"
   },
   {
-    "id": 31258,
-    "name": "Slymes"
-  },
-  {
-    "id": 95442,
-    "name": "Network"
-  },
-  {
-    "id": 90512,
-    "name": "Asian Riddles 4"
-  },
-  {
-    "id": 105842,
-    "name": "Robots Vs Zombies: Transform To Race And Fight"
-  },
-  {
-    "id": 85450,
-    "name": "Transformers Prime: The Game"
-  },
-  {
-    "id": 104748,
-    "name": "Space station - build your own ISS"
-  },
-  {
-    "id": 111593,
-    "name": "Oppai Puzzle"
-  },
-  {
-    "id": 91890,
-    "name": "Waker"
-  },
-  {
-    "id": 42610,
-    "name": "Hebereke\u0027s Popoon"
-  },
-  {
-    "id": 22637,
-    "name": "Panzer Corps"
-  },
-  {
-    "id": 105254,
-    "name": "Codenames"
-  },
-  {
-    "id": 91756,
-    "name": "Aban Hawkins \u0026 the 1000 SPIKES"
-  },
-  {
-    "id": 93987,
-    "name": "Pi Story"
-  },
-  {
-    "id": 110810,
-    "name": "Running Naked Simulator 2019"
-  },
-  {
-    "id": 101139,
-    "name": "Last Saver: Zombie Hunter Master"
-  },
-  {
-    "id": 2057,
-    "name": "Out Run 2019"
+    "id": 9476,
+    "collection": {
+      "id": 93,
+      "slug": "sonic"
+    },
+    "genres": [
+      {
+        "id": 8,
+        "slug": "platform"
+      }
+    ],
+    "name": "Sonic 3D Blast"
   }
 ]

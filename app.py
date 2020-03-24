@@ -1,5 +1,5 @@
-import requests as req
-import apicalypse_python as apic
+import reqqer as req
+import apic
 
 API = 'https://api-v3.igdb.com'
 KEY = 'cda00748d56ce784ef194c4634310970'
@@ -9,7 +9,6 @@ REQ_HEAD = {'user-key':KEY} # Required by IGDB
 # Parse specific game info from /games/ -> depends on what your app is going to be about
 # Depending on the app, use the relevant info from /games/ to search other endpoints
 # Caching
-# Learn Apicalypse query language for RESTful APIs, Create a apicalypse_python wrapper to process 
 
 # Interesting endpoints the API exposes
 ENDPOINT = {
@@ -31,10 +30,8 @@ ENDPOINT = {
 	'themes':'/themes/'
 }
 
-def test_endpoint(endpoint):
-	response = req.get(API, headers=REQ_HEAD) # request header included
-	print(response.status_code)
-	return response
+def test_endpoint():
+	response = req.GET(API,ENDPOINT['games'],REQ_HEAD,{}) # request header included
 
 '''
 	IGDB requires the data for a POST request to be in byte form - a string
@@ -55,8 +52,10 @@ def test_endpoint(endpoint):
 	The games endpoint has fields with numerical values - IDs
 	that must be used to extrapolate data from other endpoints
 '''
+# Note on apicalypse -> to access the members of a field, use the dot operator
+# Example collection.name returns the name of the collection
 def post_to(endpoint, body):
-	response = req.post(API + endpoint, headers=REQ_HEAD, data="fields name;limit 25;")
+	response = req.post(API + endpoint, headers=REQ_HEAD, data=body)
 	print(response.status_code)
 	return response
 
@@ -69,19 +68,29 @@ def dump_endpoint(response, fname):
 def jsonify(response):
 	return response.json()
 
-def build_req_body(fields,data,constraints,logic,limit,offset,sort,order):
-	body = {}
-	body['fields'] = fields
-	body['data'] = data
-	body['constraints'] = constraints
-	body['logic'] = logic
-	body['limit'] = limit
-	body['offset'] = offset
-	body['sort'] = sort
-	body['order'] = order
+# Construct the request body to form and apicalypse query
+# Fields can be dot seperated to indicate entries from a given field
+# if it exists in the API
+# Example: genres -> returns an array of genre IDS
+# but genres.slug -> returns an array of the names of the genres
+def build_req_body(fld,excl,data,constr,logic,lim,off,sort,order):
+	body = {
+		'fields':fld,
+		'exclude':excl,
+		'data':data,
+		'constraints':constr,
+		'logic':logic,
+		'limit':lim,
+		'offset':off,
+		'sort':sort,
+		'order':order
+	}
 	return body
+def client():
+	data = build_req_body('name,rating,genres.slug,collection.slug','rating','collection.name','= "Sonic"','',10,0,'','')
+	request_body = apic.compile_query(data)
 
-data = build_req_body('name,rating','rating','> 75','',10,0,'rating','asc')
-request_body = apic.compile_query(data)
-r = post_to(ENDPOINT['games'], request_body) 
-dump_endpoint(r.text, 'output.txt')
+	resp,code = req.POST(API,ENDPOINT['games'],REQ_HEAD,request_body)
+	dump_endpoint(req.textify(resp), 'output.txt')
+
+client()
