@@ -92,15 +92,17 @@ def compile_query(data):
 	fields = data['fields'].split(',')
 	exclude = data['exclude'].split(',')
 	data_f = data['data'].split(',')
-	constraints = data['constraints'].split(',')
+	lg.log_terminal_only(('APIC','DATA',data_f))
+	constraints = data['constraints'].split('\\')
+	lg.log_terminal_only(('APIC','CSTR',constraints))
 	logic = data['logic']
 	limit = data['limit']
 	offset = data['offset']
 	sort = data['sort']
 	order = data['order']
 	
-	f_q = generate_fields(fields) if fields[0] != '' else ''
-	e_q = generate_exclusion(exclude) if exclude[0] != '' else ''
+	f_q = generate_fields(fields) if (fields[0] != '' or fields[0] == '*') else ''
+	e_q = generate_exclusion(exclude) if (exclude[0] != '' or exclude[0] == '*') else ''
 	w_q = generate_filter(data_f,constraints,logic) if data_f[0] != '' else ''
 	l_q = generate_limit(limit) if limit != '' else ''
 	o_q = generate_offset(offset) if offset != '' else ''

@@ -87,10 +87,10 @@ def build_req_body(fld,excl,data,constr,logic,lim,off,sort,order):
 	}
 	return body
 def client():
-	data = build_req_body('name,rating,genres.slug,collection.slug','rating','collection.name','= "Sonic"','',10,0,'','')
+	data = build_req_body('abbreviation,generation','','abbreviation,generation,generation','!= ""\\ & = 8\\ | = 7','AND','500',0,'id','asc')
 	request_body = apic.compile_query(data)
 
-	resp,code = req.POST(API,ENDPOINT['games'],REQ_HEAD,request_body)
+	resp,code = req.POST(API,ENDPOINT['platforms'],REQ_HEAD,request_body)
 	dump_endpoint(req.textify(resp), 'output.txt')
 
 client()
