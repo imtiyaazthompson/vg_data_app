@@ -1,5 +1,7 @@
 import requests as req
+import json
 import logger as lg
+import diskify
 
 # GET request wrapper
 def GET(api,endpoint,header,req_params):
@@ -24,6 +26,8 @@ def POST(api,endpoint,header,body):
 	except Exception as e:
 		lg.log_terminal_only(('REQQER','ERROR',str(e)))
 		return (None,-1)
+
+
 # Get the JSON of a response
 def jsonify(response):
 	try:
@@ -32,6 +36,8 @@ def jsonify(response):
 	except Exception as e:
 		lg.log_terminal_only(('REQQER','ERROR',str(e)))
 		return None
+
+
 # Get the raw html of a response
 def textify(response):
 	try:
@@ -40,6 +46,8 @@ def textify(response):
 	except Exception as e:
 		lg.log_terminal_only(('REQQER','ERROR',str(e)))
 		return None
+
+
 # Get the character encoding of the response
 def get_encoding(response):
 	try:
@@ -48,3 +56,8 @@ def get_encoding(response):
 	except Exception as e:
 		lg.log_terminal_only(('REQQER','ERROR',str(e)))
 		return None
+
+
+# Save the JSON of a response
+def save_response(resp,fname,mode='ab'):
+	diskify.save(resp,fname,mode)

@@ -21,6 +21,12 @@ def get_date_str(date_str, date_format="%Y-%M-%D"):
 	d = str_to_date(date_str, date_format)
 	return d.date()
 
+def get_date_str_unix(date_str, date_format="%D-%M-%Y"):
+	di = int(date_str)
+	dt = datetime.utcfromtimestamp(di)
+	d = dt.date()
+	return d
+
 # Get the datetime.time() object from a string of a 
 # time period delimited by '-'
 # Example: 12:00-15:00
@@ -53,4 +59,9 @@ def main():
 	print(times[1])
 	'''
 	print(now())
+	st = '1284101485'
+	print('UNIX {} -> {}'.format(st,get_date_str_unix(st)))
+
+if __name__ == '__main__':
+	main()
 

@@ -1,5 +1,5 @@
 import reqqer as req
-import apic
+import apic_engine as ae
 
 API = 'https://api-v3.igdb.com'
 KEY = 'cda00748d56ce784ef194c4634310970'
@@ -73,24 +73,13 @@ def jsonify(response):
 # if it exists in the API
 # Example: genres -> returns an array of genre IDS
 # but genres.slug -> returns an array of the names of the genres
-def build_req_body(fld,excl,data,constr,logic,lim,off,sort,order):
-	body = {
-		'fields':fld,
-		'exclude':excl,
-		'data':data,
-		'constraints':constr,
-		'logic':logic,
-		'limit':lim,
-		'offset':off,
-		'sort':sort,
-		'order':order
-	}
-	return body
+# Called expander syntax for apicalypse
+# To return all the properties of a field -> genres.*
 def client():
-	data = build_req_body('abbreviation,generation','','abbreviation,generation,generation','!= ""\\ & = 8\\ | = 7','AND','500',0,'id','asc')
-	request_body = apic.compile_query(data)
+	request_body = ae.run_engine()
 
-	resp,code = req.POST(API,ENDPOINT['platforms'],REQ_HEAD,request_body)
+	resp,code = req.POST(API,ENDPOINT['games'],REQ_HEAD,request_body)
+	req.jsonify(resp)
 	dump_endpoint(req.textify(resp), 'output.txt')
 
 client()
