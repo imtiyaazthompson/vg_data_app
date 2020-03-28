@@ -80,6 +80,6 @@ def client():
 
 	resp,code = req.POST(API,ENDPOINT['games'],REQ_HEAD,request_body)
 	req.jsonify(resp)
-	dump_endpoint(req.textify(resp), 'output.txt')
+	dump_endpoint(req.textify(resp), '../logs/output.txt')
 
 client()

@@ -15,6 +15,11 @@ def process_image_url(url,size):
 	
 	return full_url
 
+def process_video_id(video_id):
+	pre = 'https://www.youtube.com/watch?v='
+	full_url = pre + video_id
+	return full_url
+
 def main():
 	url = '//images.igdb.com/igdb/image/upload/t_thumb/sc79cx.jpg'
 	print(process_image_url(url,'hd2'))

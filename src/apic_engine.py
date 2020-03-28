@@ -1,5 +1,8 @@
 import logger as lg
 
+# Search is used to search for specific titles
+# for any given endpoint
+# Search also has its own endpoint
 def get_search(mode):
 	if mode == 'DEBUG':
 		r = input('SEARCH: ')
@@ -21,6 +24,7 @@ def get_exclude(mode):
 	elif mode == 'APP':
 		pass
 
+# To test for values that are null, use '!= null'
 def get_where(mode):
 	if mode == 'DEBUG':
 		r = input('WHERE: ')
