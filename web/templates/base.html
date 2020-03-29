@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		{% block head %}
+    			<meta charset="UTF-8"> 
+  			<meta name="viewport" content="width=device-width,initial-scale=1"> 
+    			<title>{% block title %}{% endblock %}</title> 
+  			<meta name="author" content="name"> 
+  			<meta name="description" content="description here"> 
+  			<meta name="keywords" content="keywords,here">
+			<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+			{% block scripts %}{% endblock %}
+		{% endblock %} 
+  	</head> 
+  <body>
+	{% block header %} 
+		<header class="w3-container w3-green"><h1>Front End Debugger</h1></header>
+	{% endblock %}
+   	{% block body %}
+	{% endblock %}
+  </body> 
+</html> 
+

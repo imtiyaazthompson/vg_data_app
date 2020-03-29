@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}Index{% endblock %}
+{% block head %}{{super()}}{% endblock %}
+{% block header %}{{super()}}{% endblock %}
+{% block body %}
+	<h3>Welcome to the front-end debugger</h3>
+	<p>This is where you search for a game and get information back</p>
+	<form method="post" action="{{url_for('proc_title')}}">
+		<label for="gname">Game Title:</label><br>
+		<input type="text" id="gname" name="gname">
+		<input type="submit" value="Submit">
+	</form>
+{% endblock %}

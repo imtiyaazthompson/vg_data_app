@@ -1,5 +1,5 @@
 import pickle
-import logger as lg
+import src.logger as lg
 
 def save(obj,fname,flag):
 	try:

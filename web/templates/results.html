@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block title %}Results{% endblock %}
+{% block head %}{{super()}}{% endblock %}
+{% block header %}{{super()}}{% endblock %}
+{% block body %}
+	<h2>success!</h2><br>
+	<h3>{{title}} was entered</h3><br><br><hr>
+
+	<h2>JSON Response</h2>
+	{% for entry in resp %}
+		<p>Name: {{entry[0]}}</p><br>
+		<p>Rating: {{entry[1]}}</p><br>
+		<ul>
+			{% for video in entry[2] %}
+				<li><a href="{{video[1]}}">{{video[0]}}</a></li>
+			{% endfor %}
+		</ul>
+	{% endfor %}
+{% endblock %}

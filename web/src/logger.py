@@ -1,4 +1,4 @@
-import chrono
+import src.chrono as chrono
 
 # Log any useful information
 
