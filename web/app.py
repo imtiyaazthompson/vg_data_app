@@ -46,6 +46,7 @@ def proc_title():
 			vids.append(chunk)
 			print(chunk)
 		data.append((gname,rating,vids,summary))
+	del global_results[:] # Flush Previous Results
 	global_results.append(title)
 	global_results.append(data)
 		
