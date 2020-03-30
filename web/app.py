@@ -1,8 +1,8 @@
 import sys
 sys.path.append('/src')
 
-from flask import Flask,request,render_template
-from src import chrono,logger,reqqer,apic_engine,igdb_procs
+from flask import Flask,request,render_template,redirect
+from src import reqqer,apic_engine,igdb_procs
 
 app = Flask(__name__)
 
@@ -16,9 +16,9 @@ def proc_title():
 
 	payload = {
 		'search':title,
-		'fields':'name,rating,videos.video_id,videos.name',
-		'exclude':'',
-		'where':'videos.video_id != null',
+		'fields':'name,rating,category,videos.video_id,videos.name,summary',
+		'exclude':'category',
+		'where':'videos.video_id != null & category = 0',
 		'limit':10,
 		'offset':0,
 		'sort':''
@@ -34,19 +34,34 @@ def proc_title():
 			rating = entry['rating']
 		else:
 			rating = 'Not available'
+		if 'summary' in keys:
+			summary = entry['summary']
+		else:
+			summary = 'None available'
 		vids = []
 		for video in entry['videos']:
 			vname = video['name']
-			vurl = igdb_procs.process_video_id(video['video_id'])
-			chunk = (vname,vurl)
+			vid = video['video_id']
+			chunk = (vname,vid)
 			vids.append(chunk)
 			print(chunk)
-		data.append((gname,rating,vids)) 
-	return render_template('results.html',title=title,resp=data)
+		data.append((gname,rating,vids,summary))
+	global_results.append(title)
+	global_results.append(data)
+		
+	return redirect('/results')
+	# return render_template('results.html',title=title,resp=data)
+
+
+@app.route('/results')
+def results():
+	return render_template('results.html',title=global_results[0],resp=global_results[1])
+
 
 if __name__ == '__main__':
 	API = 'https://api-v3.igdb.com'
 	KEY = 'cda00748d56ce784ef194c4634310970'
 	REQ_HEAD = {'user-key':KEY} # Required by IGDB
+	global_results = []
 
 	app.run(debug=True)

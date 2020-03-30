@@ -1,4 +1,4 @@
-import src.logger as lg
+from . import logger as lg
 
 # Search is used to search for specific titles
 # for any given endpoint

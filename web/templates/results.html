@@ -3,17 +3,39 @@
 {% block head %}{{super()}}{% endblock %}
 {% block header %}{{super()}}{% endblock %}
 {% block body %}
-	<h2>success!</h2><br>
-	<h3>{{title}} was entered</h3><br><br><hr>
-
-	<h2>JSON Response</h2>
+	<h1>Results</h1>
 	{% for entry in resp %}
-		<p>Name: {{entry[0]}}</p><br>
-		<p>Rating: {{entry[1]}}</p><br>
-		<ul>
+		<div class="w3-container w3-green">
+			
+			<h2 align="center">{{entry[0]}}</h2><br>
+			<h3>Summary</h3><br>
+			<p>{{entry[3]}}</p>
 			{% for video in entry[2] %}
-				<li><a href="{{video[1]}}">{{video[0]}}</a></li>
+				<div class="w3-card-4 w3-light-grey w3-center">
+					<h3>{{video[0]}}</h3>
+					<p align="center"><iframe width="50%" height="400" src="https://www.youtube.com/embed/{{video[1]}}"></iframe></p>
+				</div>
 			{% endfor %}
-		</ul>
+		</div>
 	{% endfor %}
+
+	<script>
+		var slideIndex = 1;
+		showDivs(slideIndex);
+
+		function plusDivs(n) {
+    			showDivs(slideIndex += n);
+		}
+
+		function showDivs(n) {
+    			var i;
+    			var x = document.getElementsByClassName("mySlides");
+    			if (n > x.length) {slideIndex = 1}
+    			if (n < 1) {slideIndex = x.length} ;
+    			for (i = 0; i < x.length; i++) {
+        			x[i].style.display = "none";
+    			}
+    			x[slideIndex-1].style.display = "block";
+		}
+	</script>
 {% endblock %}
