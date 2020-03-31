@@ -1,7 +1,9 @@
 import requests as req
 import json
-from . import logger as lg
-from . import diskify
+#from . import logger as lg
+#from . import diskify
+import .logger as lg
+import .diskify
 
 # GET request wrapper
 def GET(api,endpoint,header,req_params):

@@ -16,39 +16,38 @@ def proc_title():
 
 	payload = {
 		'search':title,
-		'fields':'name,rating,category,videos.video_id,videos.name,summary',
+		'fields':'name,similar_games.name,rating,similar_games.rating,category,similar_games.category,\
+			  summary,similar_games.summary,cover.url,similar_games.cover.url',
 		'exclude':'category',
-		'where':'videos.video_id != null & category = 0',
+		'where':'category = 0 & similar_games.category = 0 & cover.url != null & similar_games.cover.url != null',
 		'limit':10,
 		'offset':0,
 		'sort':''
 	}
 	query = apic_engine.run_engine('APP',payload)
 	resp,code = reqqer.POST(API,'/games/',REQ_HEAD,query)
-	data = []
 	jresp = reqqer.jsonify(resp)
+	del global_results[:] # Flush Global Data
 	for entry in jresp:
-		keys = entry.keys()
-		gname = entry['name']
-		if 'rating' in keys:
+		data = []
+		keys_g = entry.keys()
+		name = entry['name']
+		if 'rating' in keys_g:
 			rating = entry['rating']
 		else:
-			rating = 'Not available'
-		if 'summary' in keys:
-			summary = entry['summary']
-		else:
-			summary = 'None available'
-		vids = []
-		for video in entry['videos']:
-			vname = video['name']
-			vid = video['video_id']
-			chunk = (vname,vid)
-			vids.append(chunk)
-			print(chunk)
-		data.append((gname,rating,vids,summary))
-	del global_results[:] # Flush Previous Results
-	global_results.append(title)
-	global_results.append(data)
+			rating = 'Not Available'
+		summary = entry['summary']
+		for game in entry['similar_games']:
+			keys_s = game.keys()
+			sname = game['name']
+			if 'rating' in keys_s:
+				srating = game['rating']
+			else:
+				srating = 'Not available'
+			
+			ssummary = game['summary']
+			data.append((sname,srating,ssummary))
+		global_results.append((name,rating,summary,data))
 		
 	return redirect('/results')
 	# return render_template('results.html',title=title,resp=data)
@@ -56,7 +55,7 @@ def proc_title():
 
 @app.route('/results')
 def results():
-	return render_template('results.html',title=global_results[0],resp=global_results[1])
+	return render_template('results.html',resp=global_results)
 
 
 if __name__ == '__main__':
