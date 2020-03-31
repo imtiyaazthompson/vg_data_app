@@ -27,16 +27,18 @@ def proc_title():
 	query = apic_engine.run_engine('APP',payload)
 	resp,code = reqqer.POST(API,'/games/',REQ_HEAD,query)
 	jresp = reqqer.jsonify(resp)
+	print(jresp)
 	del global_results[:] # Flush Global Data
 	for entry in jresp:
 		data = []
 		keys_g = entry.keys()
 		name = entry['name']
 		if 'rating' in keys_g:
-			rating = entry['rating']
+			rating = '{}'.format(round(float(entry['rating']),2))
 		else:
 			rating = 'Not Available'
 		summary = entry['summary']
+		cover = igdb_procs.process_image_url(entry['cover']['url'],'med')
 		for game in entry['similar_games']:
 			keys_s = game.keys()
 			sname = game['name']
@@ -46,8 +48,12 @@ def proc_title():
 				srating = 'Not available'
 			
 			ssummary = game['summary']
-			data.append((sname,srating,ssummary))
-		global_results.append((name,rating,summary,data))
+			if 'cover' in keys_s:
+				scover = igdb_procs.process_image_url(game['cover']['url'],'med')
+			else:
+				scover = None
+			data.append((sname,srating,ssummary,scover))
+		global_results.append((name,rating,summary,cover,data))
 		
 	return redirect('/results')
 	# return render_template('results.html',title=title,resp=data)
