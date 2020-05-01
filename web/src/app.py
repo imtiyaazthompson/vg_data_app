@@ -2,7 +2,7 @@ import reqqer as req
 import apic_engine as ae
 
 API = 'https://api-v3.igdb.com'
-KEY = 'cda00748d56ce784ef194c4634310970'
+KEY = ''
 REQ_HEAD = {'user-key':KEY} # Required by IGDB
 
 # TODO

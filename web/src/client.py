@@ -6,7 +6,7 @@ import logger as lg
 def setup(qs):
 	query = AQuery(qs)
 	# api,key
-	r = Request('https://api-v3.igdb.com','cda00748d56ce784ef194c4634310970')
+	r = Request('https://api-v3.igdb.com','')
 	r.set_endpoint('/games')
 
 	r.post(query.get_query())

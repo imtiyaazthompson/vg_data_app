@@ -7,7 +7,7 @@ import logger as lg
 from apic_engine import AQuery
 
 API = 'https://api-v3.igdb.com'
-KEY = 'cda00748d56ce784ef194c4634310970'
+KEY = ''
 #REQ_HEAD = {'user-key':KEY} # Required by IGDB
 
 #TODO build a similarity tree visualization
