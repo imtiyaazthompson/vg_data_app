@@ -3,6 +3,7 @@ sys.path.append('/src')
 
 from flask import Flask,request,render_template,redirect
 from src import reqqer,apic_engine,igdb_procs
+import json
 
 app = Flask(__name__)
 
@@ -27,23 +28,22 @@ def proc_title():
 	query = apic_engine.run_engine('APP',payload)
 	resp,code = reqqer.POST(API,'/games/',REQ_HEAD,query)
 	jresp = reqqer.jsonify(resp)
-	print(jresp)
-	del global_results[:] # Flush Global Data
+	del global_results[:]
 	for entry in jresp:
 		data = []
 		keys_g = entry.keys()
 		name = entry['name']
 		if 'rating' in keys_g:
-			rating = '{}'.format(round(float(entry['rating']),2))
+			rating = round(float(entry['rating']),2)
 		else:
 			rating = 'Not Available'
 		summary = entry['summary']
-		cover = igdb_procs.process_image_url(entry['cover']['url'],'med')
+		cover = igdb_procs.process_image_url(entry['cover']['url'],'hd')
 		for game in entry['similar_games']:
 			keys_s = game.keys()
 			sname = game['name']
 			if 'rating' in keys_s:
-				srating = game['rating']
+				srating = round(float(game['rating']),2)
 			else:
 				srating = 'Not available'
 			

@@ -1,4 +1,4 @@
-from . import chrono
+import chrono
 
 # Log any useful information
 

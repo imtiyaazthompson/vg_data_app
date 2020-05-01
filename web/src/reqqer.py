@@ -1,63 +1,96 @@
 import requests as req
 import json
-from . import logger as lg
-from . import diskify
+import traceback
+#from . import logger as lg
+#from . import diskify
+import logger as lg
+from apic_engine import AQuery
 
-# GET request wrapper
-def GET(api,endpoint,header,req_params):
-	try:
-		resp = req.get(api + endpoint,headers=header,params=req_params)
-		lg.log_terminal_only(('REQQER','GET',resp))
-		stat = resp.status_code
-		lg.log_terminal_only(('REQQER','GET',stat))
-		return (resp,stat)
-	except Exception as e:
-		lg.log_terminal_only(('REQQER','ERROR',str(e)))
-		return (None,-1)
+API = 'https://api-v3.igdb.com'
+KEY = 'cda00748d56ce784ef194c4634310970'
+#REQ_HEAD = {'user-key':KEY} # Required by IGDB
 
-# POST request wrapper
-def POST(api,endpoint,header,body):
-	try:
-		resp = req.post(api + endpoint,headers=header,data=body)
-		lg.log_terminal_only(('REQQER','POST',resp))
-		stat = resp.status_code
-		lg.log_terminal_only(('REQQER','POST',stat))
-		return (resp,stat)
-	except Exception as e:
-		lg.log_terminal_only(('REQQER','ERROR',str(e)))
-		return (None,-1)
+#TODO build a similarity tree visualization
+class Request:
+
+	def __init__(self,api,apikey):
+		self.request_header = {'user-key':apikey}
+		self.api = api
+		self.endpoint = None
+		self.resp = None
+		self.status = None
+
+	def set_endpoint(self,end):
+		self.endpoint = self.api + end
+
+	def get(self,request_params):
+		try:
+			self.resp = req.get(self.endpoint,headers=self.request_header,params=req_params)
+			self.status = self.resp.status_code
+			lg.log_terminal_only(('GET','LOG','code: {}'.format(self.status)))
+			self.dump()
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_GET','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))
+
+	def post(self,request_body):
+		try:
+			self.resp = req.post(self.endpoint,headers=self.request_header,data=request_body)
+			self.status = self.resp.status_code
+			lg.log_terminal_only(('POST','LOG','code: {}'.format(self.status)))
+			self.dump()
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_POST','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))
+		
+	def json(self):
+		try:
+			return self.resp.json()
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_JSON','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))
+
+	def raw(self):
+		try:
+			return self.resp.text
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_RAW','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))
+
+	def encoding(self):
+		try:
+			return self.resp.encoding
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_ENC','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))
+
+	def get_status(self):
+		try:
+			return self.status
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_STAT','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))	
+
+	def dump(self):
+		try:
+			f = open('response_dump.txt','w')
+			f.write(self.raw())
+			f.close()
+			lg.log_terminal_only(('DUMP','LOG','DUMPED RESPONSE TO FILE'))
+		except Exception as e:
+			lg.log_terminal_only(('REQUEST_DUMP','ERROR','\nSTACK\n{}'.format(traceback.format_exc())))
 
 
-# Get the JSON of a response
-def jsonify(response):
-	try:
-		ret = response.json()
-		return ret
-	except Exception as e:
-		lg.log_terminal_only(('REQQER','ERROR',str(e)))
-		return None
 
+def main():
+	r = Request(API,KEY)
+	r.set_endpoint('/games/')
 
-# Get the raw html of a response
-def textify(response):
-	try:
-		ret = response.text
-		return ret
-	except Exception as e:
-		lg.log_terminal_only(('REQQER','ERROR',str(e)))
-		return None
+	query_str = 'search "nioh";fields name,genres.slug,rating,similar_games.name;limit 10;'
+	body = AQuery(query_str)
 
+	r.post(body.get_query())
+	r.dump()
+	j = r.json()
+	print('Type of json: {}'.format(type(j)))
+	print('Size of json: {}'.format(len(j)))
+	print('Investigate')
+	print(type(j[0]))
+	print(j[5])
 
-# Get the character encoding of the response
-def get_encoding(response):
-	try:
-		ret = response.encoding
-		return ret
-	except Exception as e:
-		lg.log_terminal_only(('REQQER','ERROR',str(e)))
-		return None
-
-
-# Save the JSON of a response
-def save_response(resp,fname,mode='ab'):
-	diskify.save(resp,fname,mode)
+if __name__ == '__main__':
+	main()

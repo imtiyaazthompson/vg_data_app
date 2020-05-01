@@ -5,26 +5,15 @@
 {% block body %}
 
 	{% for entry in resp %}
-		<div class="w3-container w3-green">
-			<div class="w3-card w3-blue">
-				<img src="{{entry[3]}}" class="w3-right">
-				<div class="w3-card w3-left">
-					<h1>{{entry[0]}}</h1>
-					<p>{{entry[2]}}</p>
-					<p>Rating: {{entry[1]}}</p>
-				</div>
+		<div style="background-image:url({{entry[3]}});background-position:center;background-repeat:no-repeat;background-size:100% 100%;">
+			<div class=".text" style="background-color:rgba(128,128,128,0.65)">
+				<h1>{{entry[0]}}</h1>
+				<h2>Summary</h2>
+				<p style="font-size:1.10em;">{{entry[2]}}</p>
+				<p>Rating: {{entry[1]}}</p>
 			</div>
-			{% for game in entry[4] %}
-				<div class="w3-card w3-grey">
-					<img src="{{game[3]}}" class="w3-left">
-					<div class="w3-card w3-right">
-						<h3>{{game[0]}}</h3>
-						<p>{{game[2]}}</p>
-						<p>Rating:{{game[1]}}</p>
-					</div>
-				</div>
-			{% endfor %}
+
 		</div>
-	{% endfor %}
+	{% endfor %}	
 
 {% endblock %}

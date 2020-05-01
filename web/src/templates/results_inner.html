@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block title %}Similar Game: {{game['name']}}{% endblock %}
+{% block head %}{{super()}}{% endblock %}
+{% block body %}
+	{% block header %}<h1>Similar Game Info</h1>{% endblock %}
+
+	<div class="w3-card w3-green w3-margin w3-padding-small">
+		<h2>{{game['name']}}</h2>
+		<h3>Summary</h3>
+		<p>{{game['summary']}}</p>
+		<p><b>Rating: </b>{{game['rating']|int}}
+	</div>
+	
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %} Results {% endblock %}
+{% block head %} {{super()}} {% endblock %}
+{% block body %}
+{% block header %} <h1>Results</h1> {% endblock %}
+
+	{% for item in data %}
+		<div class="w3-card-4 w3-margin w3-padding-small">
+			<h2>{{item['name']}}</h2>
+			<h3>Summary</h3>
+			<p>{{item['summary']}}</p>
+			<p><b>Rating: {{item['rating']}}</b></p>
+			<h2>Similar Games</h2>
+			<ul>
+			{% for game in item['similar_games'] %}
+				<li><a href="{{url_for('similar',name=game['name'])}}">{{game['name']}}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	{% endfor  %}
+
+{% endblock body %}

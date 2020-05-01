@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %} Front Page {% endblock %}
+{% block head %} {{super()}} {% endblock %}
+{% block body %}
+{% block header %} <h1>Debugger</h1> {% endblock %}
+
+	<div class="w3-card-4 w3-green w3-margin w3-padding-16">
+		<div class="w3-container w3-dark-green">
+			<h2 class="w3-animate-left">Let's get started. Input the name of a game below</h2>
+		</div>
+		<form class="w3-container" action="{{url_for('get_name')}}" method="post">
+			<label class="w3-text-light-grey"><b style="font-size:1.2em;">Game Title</b> </label>
+	
+			<input class="w3-input w3-border w3-light-grey" type="text" id="title" name="title">
+	
+			<br>
+			<button class="w3-btn w3-light-grey" type="submit" value="Submit">Submit</button>
+		</form>
+	</div>
+{% endblock %}

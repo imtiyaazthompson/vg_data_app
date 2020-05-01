@@ -1,0 +1,5039 @@
+[
+  {
+    "id": 2155,
+    "cover": {
+      "id": 89684,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x78.jpg"
+    },
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "rating": 85.67250853976469,
+    "rating_count": 597,
+    "release_dates": [
+      {
+        "id": 4426,
+        "human": "2011-Sep-22"
+      },
+      {
+        "id": 4427,
+        "human": "2011-Oct-04"
+      },
+      {
+        "id": 4428,
+        "human": "2012-Aug-23"
+      },
+      {
+        "id": 102351,
+        "human": "2011-Oct-04"
+      },
+      {
+        "id": 102352,
+        "human": "2011-Oct-07"
+      },
+      {
+        "id": 102353,
+        "human": "2011-Sep-22"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 359,
+        "cover": {
+          "id": 85214,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tr2.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          },
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Final Fantasy XV",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 170,
+            "name": "Google Stadia"
+          }
+        ],
+        "rating": 77.9420683336555,
+        "rating_count": 270,
+        "release_dates": [
+          {
+            "id": 110183,
+            "human": "2016-Nov-29"
+          },
+          {
+            "id": 110184,
+            "human": "2016-Nov-29"
+          },
+          {
+            "id": 133677,
+            "human": "2016-Nov-29"
+          },
+          {
+            "id": 133678,
+            "human": "2016-Nov-29"
+          },
+          {
+            "id": 136015,
+            "human": "2016-Nov-29"
+          },
+          {
+            "id": 147665,
+            "human": "2018-Mar-06"
+          },
+          {
+            "id": 179300,
+            "human": "2019"
+          }
+        ],
+        "summary": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before."
+      },
+      {
+        "id": 1081,
+        "cover": {
+          "id": 82702,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rta.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "The Elder Scrolls Online",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 170,
+            "name": "Google Stadia"
+          }
+        ],
+        "rating": 70.87868219837931,
+        "rating_count": 119,
+        "release_dates": [
+          {
+            "id": 21171,
+            "human": "2014-Apr-04"
+          },
+          {
+            "id": 21172,
+            "human": "2014-Apr-04"
+          },
+          {
+            "id": 38070,
+            "human": "2015-Jun-09"
+          },
+          {
+            "id": 38071,
+            "human": "2015-Jun-09"
+          },
+          {
+            "id": 106165,
+            "human": "2015-Jun-09"
+          },
+          {
+            "id": 106166,
+            "human": "2015-Jun-09"
+          },
+          {
+            "id": 174456,
+            "human": "TBD"
+          }
+        ],
+        "summary": "The Elder Scrolls Online is a massively multiplayer online role-playing game that was announced in May 2012. Developed by the team at ZeniMax Online Studios, The Elder Scrolls Online merges the unmatched exploration of rich worlds that the franchise is known for with the scale and social aspects of a massively multiplayer online role-playing game. \n \nAn entirely new chapter of Elder Scrolls history will be revealed in this ambitious world, set a millennium before the events of Skyrim as the Daedric prince, Molag Bal, tries to pull all of Tamriel into his demonic realm."
+      },
+      {
+        "id": 1864,
+        "cover": {
+          "id": 82076,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rbw.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Ni no Kuni: Wrath of the White Witch",
+        "platforms": [
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 88.34997022750309,
+        "rating_count": 107,
+        "release_dates": [
+          {
+            "id": 49961,
+            "human": "2011-Nov-17"
+          },
+          {
+            "id": 49962,
+            "human": "2013-Jan-31"
+          },
+          {
+            "id": 108387,
+            "human": "2013-Feb-01"
+          },
+          {
+            "id": 108388,
+            "human": "2011-Nov-17"
+          },
+          {
+            "id": 108389,
+            "human": "2013-Jan-22"
+          },
+          {
+            "id": 174659,
+            "human": "2019-Sep-20"
+          }
+        ],
+        "summary": "\"Ni no Kuni: Wrath of the White Witch, a heart-warming tale of a young boy named Oliver, who embarks on a journey into a parallel world in an attempt to bring his mother back from the dead. Along the way, Oliver makes new friends and adopts many of the wonderful creatures that inhabit the world, raising them to battle other creatures on his behalf as he takes on formidable enemies. Developed by LEVEL-5 alongside Studio Ghibli, the legendary animation studio, Ni no Kuni: Wrath of the White Witch combines beautiful animated visuals, masterful storytelling and a sweeping score into an epic role-playing adventure like no other.\" \n \nNi no Kuni: Wrath of the White Witch is an enhanced version of the Nintendo DS game Ni no Kuni: Dominion of the Dark Djin that was only released in Japan."
+      },
+      {
+        "id": 1887,
+        "cover": {
+          "id": 81930,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7u.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 24,
+            "name": "Tactical"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dragon Age: Inquisition",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 84.41693551534611,
+        "rating_count": 627,
+        "release_dates": [
+          {
+            "id": 19623,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19624,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19625,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19626,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19628,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 19629,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 19630,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 19631,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 23646,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23647,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23648,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23649,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23650,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23651,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23652,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23653,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23654,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23655,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 102644,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 102645,
+            "human": "2014-Nov-21"
+          }
+        ],
+        "summary": "When the sky opens up and rains down chaos, the world needs heroes. Become the savior of Thedas in Dragon Age: Inquisition. You are the Inquisitor, tasked with saving the world from itself. But the road ahead is paved with difficult decisions. Thedas is a land of strife. Factions constantly war with each other even as a larger demonic invasion has begun. And you? You and your band of champions are the only ones who can hold it together. It’s your job to lead them… or fall. \n \nEnthralling, Choice-driven Narrative – You’re not just deciding who to send into which battle in Inquisition, you’re making important decisions that shape the future of Thedas. Each choice carries weight, and your actions can lead to a variety of outcomes. Inquisition is a highly personalized journey, where one wrong move could set in motion a series of events that alter the physical aspects of the world itself, making your Thedas – and your heroes – feel truly unique. \n \nA Massive World to Discover – The world of Thedas has never been bigger or more detailed; it’s wide open, and ripe for exploration. Discover enemy keeps ripe for the taking. Unearth hidden caves filled with lurking creatures. Thedas is vast and dangerous, but uncovering its secrets can spell the difference between victory and defeat. \n \nIntense, Strategic Combat – There’s no wrong way to play Dragon Age: Inquisition… except for the way that gets you killed. Fortunately, the optional strategic view gives you a god’s-eye vantage on battle. Time stops while you plan in this view, but if that’s not your style, you can just barrel ahead, crossbows blazing."
+      },
+      {
+        "id": 2368,
+        "cover": {
+          "id": 87946,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vuy.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dark Souls II",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 81.2233048245008,
+        "rating_count": 384,
+        "release_dates": [
+          {
+            "id": 8399,
+            "human": "2014-Mar-11"
+          },
+          {
+            "id": 8400,
+            "human": "2014-Mar-11"
+          },
+          {
+            "id": 13674,
+            "human": "2014-Apr-25"
+          },
+          {
+            "id": 102354,
+            "human": "2014-Mar-11"
+          },
+          {
+            "id": 102355,
+            "human": "2014-Mar-14"
+          },
+          {
+            "id": 122507,
+            "human": "2014-Mar-11"
+          }
+        ],
+        "summary": "The unique old-school action rpg experience captivated imaginations of gamers worldwide with incredible challenge and intense emotional reward.\nDark Souls II brings the franchise’s renowned difficulty \u0026 gripping gameplay innovations to both single and multiplayer experiences. \n\nImmerse yourself into mind-bending environments filled with new twisted monsters and deadly bosses that could only come from the imagination of from software. A wide range of threats will prey on human senses \u0026 phobias - auditory hallucinations, vertigo, acrophobia, etc."
+      },
+      {
+        "id": 3025,
+        "cover": {
+          "id": 94225,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20pd.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Middle-earth: Shadow of Mordor",
+        "platforms": [
+          {
+            "id": 3,
+            "name": "Linux"
+          },
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 80.5107852282564,
+        "rating_count": 705,
+        "release_dates": [
+          {
+            "id": 20647,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 20649,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 20650,
+            "human": "2014-Sep-30"
+          },
+          {
+            "id": 21140,
+            "human": "2014-Sep-30"
+          },
+          {
+            "id": 21141,
+            "human": "2014-Oct-03"
+          },
+          {
+            "id": 21142,
+            "human": "2014-Oct-08"
+          },
+          {
+            "id": 21144,
+            "human": "2014-Oct-08"
+          },
+          {
+            "id": 21145,
+            "human": "2014-Dec-25"
+          },
+          {
+            "id": 21146,
+            "human": "2014-Oct-03"
+          },
+          {
+            "id": 21147,
+            "human": "2014-Oct-08"
+          },
+          {
+            "id": 21148,
+            "human": "2014-Dec-25"
+          },
+          {
+            "id": 21149,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 21150,
+            "human": "2014-Nov-26"
+          },
+          {
+            "id": 21151,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 21152,
+            "human": "2014-Nov-26"
+          },
+          {
+            "id": 21153,
+            "human": "2014-Dec-25"
+          },
+          {
+            "id": 108067,
+            "human": "2014-Oct-03"
+          },
+          {
+            "id": 108068,
+            "human": "2014-Sep-30"
+          },
+          {
+            "id": 113810,
+            "human": "2015-Jul-30"
+          },
+          {
+            "id": 113811,
+            "human": "2015-Jul-30"
+          },
+          {
+            "id": 117713,
+            "human": "2015-Jul-30"
+          }
+        ],
+        "summary": "Middle-earth: Shadow of Mordor is a open world third-person action role-playing video game developed by Monolith Productions and published by Warner Bros. Interactive Entertainment, which takes place in the world of J.R.R. Tolkien\u0027s Legendarium. \n \nThe game takes place in the 60-year gap between the events of Tolkien\u0027s The Hobbit and The Lord of The Rings. It is a story of revenge, slaughter, and mystery set entirely in Mordor, the Land of Shadows. At its center is Talion, an ordinary man who loses everything, including his mortal life. \n \nThe game is set in a fully open world, and features various role-playing game elements such as experience points and skills. There are various ways the player can complete their main objective. Aside from the main storyline, there are various side quests and random events the player can complete within Mordor. \n \nThe melee system is inspired by that of the Batman Arkham series. Getting into a good fighting rhythm, using both regular attacks and counter-attacks will improve the player\u0027s combo multiplier. \n \nA unique feature of Middle-earth: Shadow of Mordor is the Nemesis system. Every enemy in the game has their own name, rank, and memory. These enemies will continue to do their own jobs and tasks even when they\u0027re off screen. If the player does not kill an enemy in an encounter, this enemy will remember the player and change their tactics and conversations based on the encounter."
+      },
+      {
+        "id": 3968,
+        "cover": {
+          "id": 94896,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2180.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          }
+        ],
+        "name": "Dragon\u0027s Dogma",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 71.0654879956703,
+        "rating_count": 48,
+        "release_dates": [
+          {
+            "id": 9190,
+            "human": "2012-May-22"
+          },
+          {
+            "id": 9191,
+            "human": "2012-May-22"
+          },
+          {
+            "id": 43562,
+            "human": "2016-Jan-15"
+          },
+          {
+            "id": 102686,
+            "human": "2012-May-27"
+          },
+          {
+            "id": 102687,
+            "human": "2012-May-25"
+          }
+        ],
+        "summary": "Set in a huge open world, Dragon’s Dogma: Dark Arisen presents a rewarding action combat experience. Players embark on an epic adventure in a rich, living world with three AI companions, known as Pawns. These partners fight independently, demonstrating prowess and ability that they have developed based on traits learnt from each player. PC users can share these Pawns online and reap rewards of treasure, tips and strategy hints for taking down the terrifying enemies. Pawns can also be borrowed when specific skills are needed to complete various challenging quests."
+      },
+      {
+        "id": 5619,
+        "cover": {
+          "id": 83638,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1sja.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Demon\u0027s Souls",
+        "platforms": [
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 45,
+            "name": "PlayStation Network"
+          }
+        ],
+        "rating": 83.5016668580721,
+        "rating_count": 208,
+        "release_dates": [
+          {
+            "id": 49705,
+            "human": "2010-Jun-23"
+          },
+          {
+            "id": 102481,
+            "human": "2009-Oct-06"
+          },
+          {
+            "id": 102482,
+            "human": "2009-Feb-05"
+          },
+          {
+            "id": 102483,
+            "human": "2010-Jun-25"
+          },
+          {
+            "id": 102484,
+            "human": "2013-Jan-08"
+          },
+          {
+            "id": 102485,
+            "human": "2013-Jan-23"
+          }
+        ],
+        "summary": "Set in a dark fantasy world, players take control of a hero who has journeyed to the fictional kingdom of Boletaria, which is being ravaged by a cursed fog that brings forth demons who feast on the souls of mortals. The game has been described as a spiritual successor to the King\u0027s Field series of games. The gameplay involves a character-creation system and emphasizes gathering loot through combat with enemies in a non-linear series of varied locations. It has a unique online multiplayer system integrated into the single-player where players can leave useful messages and warnings for other players\u0027 single-player game worlds, as well as joining other players in their world to assist and/or kill them."
+      },
+      {
+        "id": 7334,
+        "cover": {
+          "id": 82054,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rba.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Bloodborne",
+        "platforms": [
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          }
+        ],
+        "rating": 90.89409821883409,
+        "rating_count": 687,
+        "release_dates": [
+          {
+            "id": 23719,
+            "human": "2015-Mar-26"
+          },
+          {
+            "id": 101953,
+            "human": "2015-Mar-24"
+          },
+          {
+            "id": 101954,
+            "human": "2015-Mar-27"
+          }
+        ],
+        "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt\u0027s many mysteries."
+      },
+      {
+        "id": 11133,
+        "cover": {
+          "id": 87279,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vcf.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dark Souls III",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 87.9072937767809,
+        "rating_count": 582,
+        "release_dates": [
+          {
+            "id": 45932,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 45933,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 45934,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 47597,
+            "human": "2016-Mar-24"
+          },
+          {
+            "id": 47598,
+            "human": "2016-Mar-24"
+          },
+          {
+            "id": 47599,
+            "human": "2016-Mar-24"
+          },
+          {
+            "id": 102358,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 102359,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 135944,
+            "human": "2016-Apr-12"
+          }
+        ],
+        "summary": "As fires fade and the world falls into ruin, developer FROMSOFTWARE and director Hidetaka Miyazaki continue their critically-acclaimed and genre-defining series with Dark Souls III. Fans and newcomers alike will get lost in the games hallmark rewarding gameplay and immersive graphics. Now only embers remain…"
+      }
+    ],
+    "summary": "An action RPG and spiritual sequel to Demon\u0027s Souls (2009) in which the player embodies the Chosen Undead, who is tasked with fulfilling an ancient prophecy by ringing the Bells of Awakening in the dark fantasy setting of Lordran, an open world with intricate areas full of beasts, former humans gone hollow, and magical abominations whom the player must overcome in challenging and unforgiving combat."
+  },
+  {
+    "id": 11133,
+    "bundles": [
+      28210
+    ],
+    "cover": {
+      "id": 87279,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vcf.jpg"
+    },
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls III",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "rating": 87.9072937767809,
+    "rating_count": 582,
+    "release_dates": [
+      {
+        "id": 45932,
+        "human": "2016-Apr-12"
+      },
+      {
+        "id": 45933,
+        "human": "2016-Apr-12"
+      },
+      {
+        "id": 45934,
+        "human": "2016-Apr-12"
+      },
+      {
+        "id": 47597,
+        "human": "2016-Mar-24"
+      },
+      {
+        "id": 47598,
+        "human": "2016-Mar-24"
+      },
+      {
+        "id": 47599,
+        "human": "2016-Mar-24"
+      },
+      {
+        "id": 102358,
+        "human": "2016-Apr-12"
+      },
+      {
+        "id": 102359,
+        "human": "2016-Apr-12"
+      },
+      {
+        "id": 135944,
+        "human": "2016-Apr-12"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 2155,
+        "cover": {
+          "id": 89684,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x78.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dark Souls",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 85.67250853976469,
+        "rating_count": 597,
+        "release_dates": [
+          {
+            "id": 4426,
+            "human": "2011-Sep-22"
+          },
+          {
+            "id": 4427,
+            "human": "2011-Oct-04"
+          },
+          {
+            "id": 4428,
+            "human": "2012-Aug-23"
+          },
+          {
+            "id": 102351,
+            "human": "2011-Oct-04"
+          },
+          {
+            "id": 102352,
+            "human": "2011-Oct-07"
+          },
+          {
+            "id": 102353,
+            "human": "2011-Sep-22"
+          }
+        ],
+        "summary": "An action RPG and spiritual sequel to Demon\u0027s Souls (2009) in which the player embodies the Chosen Undead, who is tasked with fulfilling an ancient prophecy by ringing the Bells of Awakening in the dark fantasy setting of Lordran, an open world with intricate areas full of beasts, former humans gone hollow, and magical abominations whom the player must overcome in challenging and unforgiving combat."
+      },
+      {
+        "id": 2368,
+        "cover": {
+          "id": 87946,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vuy.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dark Souls II",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 81.2233048245008,
+        "rating_count": 384,
+        "release_dates": [
+          {
+            "id": 8399,
+            "human": "2014-Mar-11"
+          },
+          {
+            "id": 8400,
+            "human": "2014-Mar-11"
+          },
+          {
+            "id": 13674,
+            "human": "2014-Apr-25"
+          },
+          {
+            "id": 102354,
+            "human": "2014-Mar-11"
+          },
+          {
+            "id": 102355,
+            "human": "2014-Mar-14"
+          },
+          {
+            "id": 122507,
+            "human": "2014-Mar-11"
+          }
+        ],
+        "summary": "The unique old-school action rpg experience captivated imaginations of gamers worldwide with incredible challenge and intense emotional reward.\nDark Souls II brings the franchise’s renowned difficulty \u0026 gripping gameplay innovations to both single and multiplayer experiences. \n\nImmerse yourself into mind-bending environments filled with new twisted monsters and deadly bosses that could only come from the imagination of from software. A wide range of threats will prey on human senses \u0026 phobias - auditory hallucinations, vertigo, acrophobia, etc."
+      },
+      {
+        "id": 7334,
+        "cover": {
+          "id": 82054,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rba.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Bloodborne",
+        "platforms": [
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          }
+        ],
+        "rating": 90.89409821883409,
+        "rating_count": 687,
+        "release_dates": [
+          {
+            "id": 23719,
+            "human": "2015-Mar-26"
+          },
+          {
+            "id": 101953,
+            "human": "2015-Mar-24"
+          },
+          {
+            "id": 101954,
+            "human": "2015-Mar-27"
+          }
+        ],
+        "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt\u0027s many mysteries."
+      },
+      {
+        "id": 9243,
+        "cover": {
+          "id": 13044,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/ttaatqkearykpgkmz0ad.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 13,
+            "name": "Simulator"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Life is Feudal: Your Own",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "rating": 71.1635282457879,
+        "rating_count": 5,
+        "release_dates": [
+          {
+            "id": 43506,
+            "human": "2015-Nov-17"
+          }
+        ],
+        "summary": "Hardcore medieval multiplayer sandbox with terraforming, free preset and modular building construction, rich crafting (smelting, forging, farming, animal breeding etc.), survival, no target physics based combat, original combat formation system and numerous other features. Taking place in the fictional medieval world, game imposes a realistic system of global politics, economy, and socialization."
+      },
+      {
+        "id": 10776,
+        "cover": {
+          "id": 85495,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tyv.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Rising World",
+        "platforms": [
+          {
+            "id": 3,
+            "name": "Linux"
+          },
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          }
+        ],
+        "rating": 80.0,
+        "rating_count": 0,
+        "release_dates": [
+          {
+            "id": 180323,
+            "human": "2014-Dec-03"
+          },
+          {
+            "id": 180324,
+            "human": "2014-Dec-03"
+          },
+          {
+            "id": 180325,
+            "human": "2014-Dec-03"
+          }
+        ],
+        "summary": "Rising World is an open-world sandbox game with randomly generated, fully destructible environments.\n\nStarting with the most basic of tools, collect resources to survive in the wildness. Evolve your world to create one of the biggest cities of all time or a gigantic castle, or simply let your imagination run riot! If being creative is all too much, just connect with your friends and get them to help.\n\nRising World is a procedurally generated world, with fully textures landscapes, over 200 different building materials, loads of tools and many other items to help you create OR destroy your world without any restrictions."
+      },
+      {
+        "id": 28168,
+        "cover": {
+          "id": 81873,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r69.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Code Vein",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 63.1986853634987,
+        "rating_count": 37,
+        "release_dates": [
+          {
+            "id": 171074,
+            "human": "2019-Sep-27"
+          },
+          {
+            "id": 171075,
+            "human": "2019-Sep-27"
+          },
+          {
+            "id": 171076,
+            "human": "2019-Sep-27"
+          }
+        ],
+        "summary": "Code Vein is set in the not too distant future where a disaster has brought the world to ruin and vampire-like beings battle for dominance."
+      },
+      {
+        "id": 28309,
+        "cover": {
+          "id": 67083,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/zlb0ljqmgn8tc8vv3mij.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Tanzia",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 70.0,
+        "rating_count": 0,
+        "release_dates": [
+          {
+            "id": 154621,
+            "human": "2018-Jul-19"
+          },
+          {
+            "id": 166793,
+            "human": "2019-Mar-28"
+          }
+        ],
+        "summary": "An Adventure RPG in comic book style with an island setting of treasure chests and waterfalls, Tanzia combines elements of favorite classic RPGs in an open 3D world of magic and monsters."
+      },
+      {
+        "id": 36198,
+        "cover": {
+          "id": 80516,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1q4k.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Children of Morta",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 67.8371433516608,
+        "rating_count": 24,
+        "release_dates": [
+          {
+            "id": 174008,
+            "human": "2019-Sep-03"
+          },
+          {
+            "id": 174009,
+            "human": "2019-Sep-03"
+          },
+          {
+            "id": 174010,
+            "human": "2019-Oct-15"
+          },
+          {
+            "id": 174011,
+            "human": "2019-Oct-15"
+          },
+          {
+            "id": 174012,
+            "human": "2019-Oct-15"
+          }
+        ],
+        "summary": "Children of Morta is a narrative driven hack and slash roguelike. Take on the role of a member of the Bergson family, the Guardians of Mount Morta, as you fight desperately against the Corruption. Experience not only what it means to be a hero, but to be part of a family that bears the weight of the mountain together."
+      },
+      {
+        "id": 55092,
+        "cover": {
+          "id": 91030,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y8m.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Secret of Mana",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 45,
+            "name": "PlayStation Network"
+          },
+          {
+            "id": 46,
+            "name": "PlayStation Vita"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          }
+        ],
+        "rating": 66.947775836475,
+        "rating_count": 10,
+        "release_dates": [
+          {
+            "id": 110449,
+            "human": "2018-Feb-15"
+          },
+          {
+            "id": 110450,
+            "human": "2018-Feb-15"
+          },
+          {
+            "id": 110451,
+            "human": "2018-Feb-15"
+          },
+          {
+            "id": 147890,
+            "human": "2018-Feb-15"
+          }
+        ],
+        "summary": "\"The memorable adventure of Randi, Primm and Popoi is reborn as \"Secret of Mana\"! \nEmbark on an action-packed, worldwide adventure in this 3D remake.\""
+      },
+      {
+        "id": 55199,
+        "cover": {
+          "id": 81874,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r6a.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dragon: Marked for Death",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 83.0,
+        "rating_count": 2,
+        "release_dates": [
+          {
+            "id": 162428,
+            "human": "2019-Jan-31"
+          },
+          {
+            "id": 192658,
+            "human": "2020-Apr-21"
+          }
+        ],
+        "summary": "Dragon Marked For Death is a side-scrolling 2D action RPG that can played solo or with up to four players in local or online multiplayer. \n \nThe playable characters in Dragon Marked for Death: Frontline Fighters are the Empress and Warrior. \n \nYou play as the survivors of the Dragonblood Clan who set out to take revenge on the Kingdom of Medius, who destroyed their home and captured the Dragonblood Oracle, Amica. To obtain the power they need to enact their revenge, they forge a pact with the Astral Dragon Atruum. \n \nUse your newly acquired powers to take on quests from villagers and raise your status in the kingdom. How you perform in these quests can have a direct effect on the game\u0027s final outcome. \n \nQuests aren\u0027t all about defeating enemies, though. You\u0027ll guard a ship\u0027s passengers from monsters, search for hidden treasure, rescue a princess from a castle under siege, and a lot more! \n \nChoose from four playable characters (Empress, Warrior, Shinobi, or Witch) and defeat your enemies to gain experience and level up. You\u0027ll receive points as you level up that can increase your attack power, defense, agility, and other parameters. Customize your character in a way that best suits your individual playstyle! \n \nTeam up with up to four players in co-op multiplayer action via local wireless, or go online with Nintendo Switch Online and use worldwide matchmaking system to play with adventurers all over the world. By strategizing and working together with your party, you\u0027ll be able to achieve even greater results and reap even better rewards! \n \nGet ready to experience the unique, dark fantasy world of the Dragonblood Clan in this intense 2D action-RPG!"
+      }
+    ],
+    "summary": "As fires fade and the world falls into ruin, developer FROMSOFTWARE and director Hidetaka Miyazaki continue their critically-acclaimed and genre-defining series with Dark Souls III. Fans and newcomers alike will get lost in the games hallmark rewarding gameplay and immersive graphics. Now only embers remain…"
+  },
+  {
+    "id": 2368,
+    "bundles": [
+      8222
+    ],
+    "cover": {
+      "id": 87946,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vuy.jpg"
+    },
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls II",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "rating": 81.2233048245008,
+    "rating_count": 384,
+    "release_dates": [
+      {
+        "id": 8399,
+        "human": "2014-Mar-11"
+      },
+      {
+        "id": 8400,
+        "human": "2014-Mar-11"
+      },
+      {
+        "id": 13674,
+        "human": "2014-Apr-25"
+      },
+      {
+        "id": 102354,
+        "human": "2014-Mar-11"
+      },
+      {
+        "id": 102355,
+        "human": "2014-Mar-14"
+      },
+      {
+        "id": 122507,
+        "human": "2014-Mar-11"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 472,
+        "cover": {
+          "id": 85100,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnw.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "The Elder Scrolls V: Skyrim",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 87.7884481708987,
+        "rating_count": 1919,
+        "release_dates": [
+          {
+            "id": 21154,
+            "human": "2011-Nov-11"
+          },
+          {
+            "id": 21155,
+            "human": "2011-Nov-11"
+          },
+          {
+            "id": 21156,
+            "human": "2011-Nov-11"
+          },
+          {
+            "id": 21664,
+            "human": "2011-Dec-08"
+          },
+          {
+            "id": 21666,
+            "human": "2011-Dec-08"
+          },
+          {
+            "id": 106167,
+            "human": "2011-Dec-08"
+          },
+          {
+            "id": 106168,
+            "human": "2011-Nov-11"
+          },
+          {
+            "id": 106169,
+            "human": "2011-Nov-11"
+          }
+        ],
+        "summary": "The next chapter in the highly anticipated Elder Scrolls saga arrives from the makers of the 2006 and 2008 Games of the Year, Bethesda Game Studios. Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose.  \n \nPlay any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before.  \n \nSkyrim’s new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons.  \n \nChoose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions.  \n \nBattle ancient dragons like you’ve never seen. As Dragonborn, learn their secrets and harness their power for yourself."
+      },
+      {
+        "id": 660,
+        "cover": {
+          "id": 82219,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rfv.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Darkstone",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 7,
+            "name": "PlayStation"
+          }
+        ],
+        "rating": 67.4148687855505,
+        "rating_count": 9,
+        "release_dates": [
+          {
+            "id": 2686,
+            "human": "1999-Jul-31"
+          },
+          {
+            "id": 2687,
+            "human": "2001-Jan-28"
+          },
+          {
+            "id": 119059,
+            "human": "2001-Jan-28"
+          },
+          {
+            "id": 120917,
+            "human": "1999-Aug-27"
+          }
+        ],
+        "summary": "Lord Draak\u0027s henchmen are spreading chaos in Uma. Are you going to let them get away with it?"
+      },
+      {
+        "id": 1887,
+        "cover": {
+          "id": 81930,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7u.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 24,
+            "name": "Tactical"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dragon Age: Inquisition",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 84.41693551534611,
+        "rating_count": 627,
+        "release_dates": [
+          {
+            "id": 19623,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19624,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19625,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19626,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 19628,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 19629,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 19630,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 19631,
+            "human": "2014-Nov-21"
+          },
+          {
+            "id": 23646,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23647,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23648,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23649,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23650,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 23651,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23652,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23653,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23654,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 23655,
+            "human": "2014-Nov-27"
+          },
+          {
+            "id": 102644,
+            "human": "2014-Nov-18"
+          },
+          {
+            "id": 102645,
+            "human": "2014-Nov-21"
+          }
+        ],
+        "summary": "When the sky opens up and rains down chaos, the world needs heroes. Become the savior of Thedas in Dragon Age: Inquisition. You are the Inquisitor, tasked with saving the world from itself. But the road ahead is paved with difficult decisions. Thedas is a land of strife. Factions constantly war with each other even as a larger demonic invasion has begun. And you? You and your band of champions are the only ones who can hold it together. It’s your job to lead them… or fall. \n \nEnthralling, Choice-driven Narrative – You’re not just deciding who to send into which battle in Inquisition, you’re making important decisions that shape the future of Thedas. Each choice carries weight, and your actions can lead to a variety of outcomes. Inquisition is a highly personalized journey, where one wrong move could set in motion a series of events that alter the physical aspects of the world itself, making your Thedas – and your heroes – feel truly unique. \n \nA Massive World to Discover – The world of Thedas has never been bigger or more detailed; it’s wide open, and ripe for exploration. Discover enemy keeps ripe for the taking. Unearth hidden caves filled with lurking creatures. Thedas is vast and dangerous, but uncovering its secrets can spell the difference between victory and defeat. \n \nIntense, Strategic Combat – There’s no wrong way to play Dragon Age: Inquisition… except for the way that gets you killed. Fortunately, the optional strategic view gives you a god’s-eye vantage on battle. Time stops while you plan in this view, but if that’s not your style, you can just barrel ahead, crossbows blazing."
+      },
+      {
+        "id": 1942,
+        "cover": {
+          "id": 89386,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wyy.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "The Witcher 3: Wild Hunt",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 96.2197521257946,
+        "rating_count": 2115,
+        "release_dates": [
+          {
+            "id": 23743,
+            "human": "2015-May-19"
+          },
+          {
+            "id": 23744,
+            "human": "2015-May-19"
+          },
+          {
+            "id": 23745,
+            "human": "2015-May-19"
+          }
+        ],
+        "summary": "The Witcher: Wild Hunt is a story-driven, next-generation open world role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. In The Witcher you play as the professional monster hunter, Geralt of Rivia, tasked with finding a child of prophecy in a vast open world rich with merchant cities, viking pirate islands, dangerous mountain passes, and forgotten caverns to explore."
+      },
+      {
+        "id": 2155,
+        "cover": {
+          "id": 89684,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x78.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dark Souls",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 85.67250853976469,
+        "rating_count": 597,
+        "release_dates": [
+          {
+            "id": 4426,
+            "human": "2011-Sep-22"
+          },
+          {
+            "id": 4427,
+            "human": "2011-Oct-04"
+          },
+          {
+            "id": 4428,
+            "human": "2012-Aug-23"
+          },
+          {
+            "id": 102351,
+            "human": "2011-Oct-04"
+          },
+          {
+            "id": 102352,
+            "human": "2011-Oct-07"
+          },
+          {
+            "id": 102353,
+            "human": "2011-Sep-22"
+          }
+        ],
+        "summary": "An action RPG and spiritual sequel to Demon\u0027s Souls (2009) in which the player embodies the Chosen Undead, who is tasked with fulfilling an ancient prophecy by ringing the Bells of Awakening in the dark fantasy setting of Lordran, an open world with intricate areas full of beasts, former humans gone hollow, and magical abominations whom the player must overcome in challenging and unforgiving combat."
+      },
+      {
+        "id": 3968,
+        "cover": {
+          "id": 94896,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2180.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          }
+        ],
+        "name": "Dragon\u0027s Dogma",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          }
+        ],
+        "rating": 71.0654879956703,
+        "rating_count": 48,
+        "release_dates": [
+          {
+            "id": 9190,
+            "human": "2012-May-22"
+          },
+          {
+            "id": 9191,
+            "human": "2012-May-22"
+          },
+          {
+            "id": 43562,
+            "human": "2016-Jan-15"
+          },
+          {
+            "id": 102686,
+            "human": "2012-May-27"
+          },
+          {
+            "id": 102687,
+            "human": "2012-May-25"
+          }
+        ],
+        "summary": "Set in a huge open world, Dragon’s Dogma: Dark Arisen presents a rewarding action combat experience. Players embark on an epic adventure in a rich, living world with three AI companions, known as Pawns. These partners fight independently, demonstrating prowess and ability that they have developed based on traits learnt from each player. PC users can share these Pawns online and reap rewards of treasure, tips and strategy hints for taking down the terrifying enemies. Pawns can also be borrowed when specific skills are needed to complete various challenging quests."
+      },
+      {
+        "id": 7334,
+        "cover": {
+          "id": 82054,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rba.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Bloodborne",
+        "platforms": [
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          }
+        ],
+        "rating": 90.89409821883409,
+        "rating_count": 687,
+        "release_dates": [
+          {
+            "id": 23719,
+            "human": "2015-Mar-26"
+          },
+          {
+            "id": 101953,
+            "human": "2015-Mar-24"
+          },
+          {
+            "id": 101954,
+            "human": "2015-Mar-27"
+          }
+        ],
+        "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt\u0027s many mysteries."
+      },
+      {
+        "id": 7346,
+        "cover": {
+          "id": 87289,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vcp.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "platforms": [
+          {
+            "id": 41,
+            "name": "Wii U"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 92.80643117953501,
+        "rating_count": 971,
+        "release_dates": [
+          {
+            "id": 64163,
+            "human": "2017-Mar-03"
+          },
+          {
+            "id": 64164,
+            "human": "2017-Mar-03"
+          },
+          {
+            "id": 144235,
+            "human": "2017-Mar-03"
+          },
+          {
+            "id": 168708,
+            "human": "TBD"
+          }
+        ],
+        "summary": "Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure."
+      },
+      {
+        "id": 9938,
+        "cover": {
+          "id": 82230,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rg6.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 15,
+            "name": "Strategy"
+          },
+          {
+            "id": 24,
+            "name": "Tactical"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Aarklash: Legacy",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "rating": 77.66688827209771,
+        "rating_count": 8,
+        "release_dates": [
+          {
+            "id": 52236,
+            "human": "2013-Sep-12"
+          }
+        ],
+        "summary": "In Aarklash: Legacy take command of a mercenary squad in search of truth and guide it through countless battles."
+      },
+      {
+        "id": 11133,
+        "cover": {
+          "id": 87279,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vcf.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dark Souls III",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 87.9072937767809,
+        "rating_count": 582,
+        "release_dates": [
+          {
+            "id": 45932,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 45933,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 45934,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 47597,
+            "human": "2016-Mar-24"
+          },
+          {
+            "id": 47598,
+            "human": "2016-Mar-24"
+          },
+          {
+            "id": 47599,
+            "human": "2016-Mar-24"
+          },
+          {
+            "id": 102358,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 102359,
+            "human": "2016-Apr-12"
+          },
+          {
+            "id": 135944,
+            "human": "2016-Apr-12"
+          }
+        ],
+        "summary": "As fires fade and the world falls into ruin, developer FROMSOFTWARE and director Hidetaka Miyazaki continue their critically-acclaimed and genre-defining series with Dark Souls III. Fans and newcomers alike will get lost in the games hallmark rewarding gameplay and immersive graphics. Now only embers remain…"
+      }
+    ],
+    "summary": "The unique old-school action rpg experience captivated imaginations of gamers worldwide with incredible challenge and intense emotional reward.\nDark Souls II brings the franchise’s renowned difficulty \u0026 gripping gameplay innovations to both single and multiplayer experiences. \n\nImmerse yourself into mind-bending environments filled with new twisted monsters and deadly bosses that could only come from the imagination of from software. A wide range of threats will prey on human senses \u0026 phobias - auditory hallucinations, vertigo, acrophobia, etc."
+  },
+  {
+    "id": 21331,
+    "cover": {
+      "id": 22644,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/u3ourlhra469lbuzxt5d.jpg"
+    },
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Bleach: Dark Souls",
+    "platforms": [
+      {
+        "id": 20,
+        "name": "Nintendo DS"
+      }
+    ],
+    "rating": 87.0,
+    "rating_count": 0,
+    "release_dates": [
+      {
+        "id": 112834,
+        "human": "2007-Feb-15"
+      },
+      {
+        "id": 112835,
+        "human": "2008-Oct-07"
+      },
+      {
+        "id": 112837,
+        "human": "2009-Mar-12"
+      },
+      {
+        "id": 137844,
+        "human": "2009-Mar-13"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 2543,
+        "cover": {
+          "id": 2496,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/mqhhiqtqghtqqlk81emj.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          }
+        ],
+        "name": "Dragon Ball Z: Ultimate Battle 22",
+        "platforms": [
+          {
+            "id": 7,
+            "name": "PlayStation"
+          }
+        ],
+        "rating": 56.0351432760451,
+        "rating_count": 15,
+        "release_dates": [
+          {
+            "id": 54354,
+            "human": "1995-Jul-28"
+          }
+        ],
+        "summary": "Dragon Ball Z: Ultimate Battle 22 gives you 22 playable characters, each with an arsenal of unique moves, kicks, spins, slashes, and specialties, an additional five bonus characters can be unlocked with one command, including Master Roshi, Kid Goku, Super Saiyan 3 Goku, Vegeto, and Mr. Hercule Satan."
+      },
+      {
+        "id": 3821,
+        "cover": {
+          "id": 4048,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/o7udsgvltuc4kif7t4g2.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          }
+        ],
+        "name": "Bleach: Shattered Blade",
+        "platforms": [
+          {
+            "id": 5,
+            "name": "Wii"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 8705,
+            "human": "2006-Dec-14"
+          },
+          {
+            "id": 137845,
+            "human": "2007-Oct-09"
+          },
+          {
+            "id": 137846,
+            "human": "2008-Feb-29"
+          },
+          {
+            "id": 137847,
+            "human": "2006-Dec-14"
+          }
+        ],
+        "summary": "Fighting game developed by Sega taking place in the Bleach universe. Takes advantage of the wii motion sensor controls and focuses on the story of a game exclusive character called Arturo Plateado."
+      },
+      {
+        "id": 5181,
+        "cover": {
+          "id": 82332,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rj0.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          },
+          {
+            "id": 8,
+            "name": "Platform"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Spider-Man: Web of Shadows",
+        "platforms": [
+          {
+            "id": 5,
+            "name": "Wii"
+          },
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 8,
+            "name": "PlayStation 2"
+          },
+          {
+            "id": 9,
+            "name": "PlayStation 3"
+          },
+          {
+            "id": 12,
+            "name": "Xbox 360"
+          },
+          {
+            "id": 20,
+            "name": "Nintendo DS"
+          },
+          {
+            "id": 38,
+            "name": "PlayStation Portable"
+          }
+        ],
+        "rating": 73.96476882930381,
+        "rating_count": 46,
+        "release_dates": [
+          {
+            "id": 12162,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 12163,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 12164,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 12165,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 12166,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 12167,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 12168,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 143420,
+            "human": "2008-Oct-21"
+          },
+          {
+            "id": 143421,
+            "human": "2008-Oct-24"
+          }
+        ],
+        "summary": "Spider-Man: Web of Shadows is a video game title encompassing three versions: a full-3D action game for Microsoft Windows, PlayStation 3, Wii, and Xbox 360; a 2.5D sidescrolling beat em up action game for the PlayStation Portable and PlayStation 2 (called Amazing Allies Edition), and a 2.5D side-scrolling brawler/platformer for the Nintendo DS. \n \nSpider-Man: Web of Shadows, along with most other games published by Activision that had used the Marvel licence, was de-listed and removed from all digital storefronts on January 1, 2014."
+      },
+      {
+        "id": 6386,
+        "cover": {
+          "id": 69446,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hl2.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          },
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          }
+        ],
+        "name": "Dragon Ball: Advanced Adventure",
+        "platforms": [
+          {
+            "id": 24,
+            "name": "Game Boy Advance"
+          }
+        ],
+        "rating": 80.7840746206642,
+        "rating_count": 24,
+        "release_dates": [
+          {
+            "id": 131689,
+            "human": "2004-Nov-18"
+          },
+          {
+            "id": 131690,
+            "human": "2005-Jun-06"
+          },
+          {
+            "id": 131691,
+            "human": "2005-Jun-17"
+          }
+        ],
+        "summary": "Join Goku® in his very first epic adventure as he defends the earth from the relentless Red Ribbon Army. Start down his path to power, and help turn an ordinary boy into the ultimate champion."
+      },
+      {
+        "id": 20530,
+        "cover": {
+          "id": 16330,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1f33wk4un4htqaiapfl.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          }
+        ],
+        "name": "Bleach: The Blade of Fate",
+        "platforms": [
+          {
+            "id": 20,
+            "name": "Nintendo DS"
+          }
+        ],
+        "rating": 74.0,
+        "rating_count": 3,
+        "release_dates": [
+          {
+            "id": 54070,
+            "human": "2006-Jan-26"
+          },
+          {
+            "id": 54071,
+            "human": "2007-Oct-09"
+          },
+          {
+            "id": 54072,
+            "human": "2008-Feb-29"
+          }
+        ],
+        "summary": "Just as the highly-anticipated second season launches, you\u0027ll get to experience the Soul Reaper fighting action of Bleach with up to three of your friends simultaneously. Bleach follows the life of a 15-year-old boy who is able to see spirits and discovers he has supernatural powers. Playing as one of your favorite 28 characters from the series, you will master their special attacks, Bankai transformations and Zanpaku-to as you battle a wide variety of opponents in a twisting storyline filled with surprises."
+      },
+      {
+        "id": 37599,
+        "cover": {
+          "id": 85345,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tup.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dragon Ball Z: Idainaru Son Goku Densetsu",
+        "summary": "Join Gohan as he shares with Goten the battles of their deceased father, Goku, along with other characters. Dragon Ball Z: Idainaru Son Goku Densetsu illustrates Goku\u0027s seven greatest battles: fighting Mercenary Tao, challenging Tien Shinhan at the World Martial Arts Tournament, destroying King Piccolo, fighting Piccolo at the 23rd World Martial Arts Tournament, protecting Earth from Vegeta, saving Namek from Frieza, and sacrificing his life to save the world from Perfect Cell."
+      },
+      {
+        "id": 61985,
+        "cover": {
+          "id": 41968,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/t7qh3d5shs1qbdsaqyid.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          },
+          {
+            "id": 15,
+            "name": "Strategy"
+          }
+        ],
+        "name": "Soul-Arena",
+        "summary": "Online browser multiplayer game based on anime Bleach."
+      },
+      {
+        "id": 66765,
+        "cover": {
+          "id": 80116,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ptg.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          }
+        ],
+        "name": "Bleach: Heat the Soul 7",
+        "platforms": [
+          {
+            "id": 38,
+            "name": "PlayStation Portable"
+          }
+        ],
+        "rating_count": 2,
+        "release_dates": [
+          {
+            "id": 128959,
+            "human": "2010-Sep-02"
+          }
+        ],
+        "summary": "Bleach: Heat the Soul 7 is a newest installment in the \"Heat the Soul\" series released on September 2, 2010. The main change in this game is a 4-Players mode.[10] Battles against giant characters have also been confirmed. New characters that have been announced are Allon (Ayon), Coyote Starrk (Los Lobos), Baraggan Luisenbarn (Arrogante), Tia Harribel (Tiburon), Yammy Riyalgo (Ira), Ulquiorra Cifer (Segunda Etapa), Ichigo Kurosaki (Full Hollow), Muramasa, Hachigen Ushoda, Love Aikawa and Shuren (downloadable content); in all, 84 characters are playable."
+      },
+      {
+        "id": 72828,
+        "cover": {
+          "id": 85861,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1u91.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          }
+        ],
+        "name": "Godzilla: Battle Legends",
+        "platforms": [
+          {
+            "id": 86,
+            "name": "TurboGrafx-16/PC Engine"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 180592,
+            "human": "1994-Feb-26"
+          },
+          {
+            "id": 180593,
+            "human": "1993-Dec-03"
+          }
+        ],
+        "summary": "Godzilla: Battle Legends (simply referred to as \"Godzilla\" in North America) is a fighting game based on the Godzilla film franchise, made for the Turbo Duo in 1993, developed by Alfa System and published in the United States by Hudson Soft. \n \nWhen Godzilla fights a certain foe, his appearance changes to reflect the era when he battled in certain films. For example, Godzilla looks like as he did in 1955 when he fights Anguirus, and as in 1964 when he fights Rodan. This game\u0027s sequel, Godzilla: Monster War for the SNES, features fewer monsters, with the inclusion of Biollante as a playable character and Mothra. \n \nIn single player mode, only Godzilla is playable."
+      },
+      {
+        "id": 75997,
+        "cover": {
+          "id": 44702,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/eoivnxlq4ftxvf0xt3xq.jpg"
+        },
+        "genres": [
+          {
+            "id": 4,
+            "name": "Fighting"
+          }
+        ],
+        "name": "Bleach: Blade Battlers 2nd",
+        "platforms": [
+          {
+            "id": 8,
+            "name": "PlayStation 2"
+          }
+        ],
+        "rating_count": 1,
+        "release_dates": [
+          {
+            "id": 128946,
+            "human": "2007-Sep-27"
+          }
+        ],
+        "summary": "Bleach Blade Battlers 2nd (BLEACH ~ブレイド・バトラーズ 2nd~) is a video game for the PlayStation 2. It is the second installment in the Bleach: Blade Battler series."
+      }
+    ],
+    "summary": "Bleach: Dark Souls on the Nintendo DS brings an exclusive storyline, expanded cast of playable characters and fast multi-plane fighting action for up to four players via Wi-Fi. Players will also build a power-packed Spirit Card Deck and collect power crystals to augment their spirit card powers on the lower screen and dish out moves that will directly affect their opponent\u0027s gameplay. With a burgeoning cast of 44 characters including the ability to play as Hollows, players can spend hours experiencing furious fighting gameplay and unlocking personal character stories all based on the series\u0027 story arc."
+  },
+  {
+    "id": 81201,
+    "cover": {
+      "id": 65589,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/fuzctz0ll7vw2n65fnso.jpg"
+    },
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls Trilogy Box",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 134867,
+        "human": "2018-May-24"
+      },
+      {
+        "id": 158818,
+        "human": "2018-Oct-19"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 54775,
+        "cover": {
+          "id": 75809,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mht.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Shadows: Awakening",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 60.0,
+        "rating_count": 7,
+        "release_dates": [
+          {
+            "id": 155679,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 157999,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 158000,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 158001,
+            "human": "2018-Aug-30"
+          },
+          {
+            "id": 158002,
+            "human": "2018-Aug-30"
+          },
+          {
+            "id": 158003,
+            "human": "2018-Sep-04"
+          },
+          {
+            "id": 158004,
+            "human": "2018-Sep-04"
+          }
+        ],
+        "summary": "Shadows: Awakening is a unique, isometric single-player RPG with real-time tactical combat. You embark on an epic adventure with challenging gameplay, a gripping storyline and enchanting graphics."
+      },
+      {
+        "id": 55038,
+        "cover": {
+          "id": 82160,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1re8.jpg"
+        },
+        "genres": [
+          {
+            "id": 5,
+            "name": "Shooter"
+          },
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Immortal: Unchained",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 62.09150326797391,
+        "rating_count": 9,
+        "release_dates": [
+          {
+            "id": 152880,
+            "human": "2018-Sep-07"
+          },
+          {
+            "id": 152881,
+            "human": "2018-Sep-07"
+          },
+          {
+            "id": 152882,
+            "human": "2018-Sep-07"
+          }
+        ],
+        "summary": "Immortal: Unchained is a souls-inspired third-person shooter/action RPG."
+      },
+      {
+        "id": 55199,
+        "cover": {
+          "id": 81874,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r6a.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dragon: Marked for Death",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 83.0,
+        "rating_count": 2,
+        "release_dates": [
+          {
+            "id": 162428,
+            "human": "2019-Jan-31"
+          },
+          {
+            "id": 192658,
+            "human": "2020-Apr-21"
+          }
+        ],
+        "summary": "Dragon Marked For Death is a side-scrolling 2D action RPG that can played solo or with up to four players in local or online multiplayer. \n \nThe playable characters in Dragon Marked for Death: Frontline Fighters are the Empress and Warrior. \n \nYou play as the survivors of the Dragonblood Clan who set out to take revenge on the Kingdom of Medius, who destroyed their home and captured the Dragonblood Oracle, Amica. To obtain the power they need to enact their revenge, they forge a pact with the Astral Dragon Atruum. \n \nUse your newly acquired powers to take on quests from villagers and raise your status in the kingdom. How you perform in these quests can have a direct effect on the game\u0027s final outcome. \n \nQuests aren\u0027t all about defeating enemies, though. You\u0027ll guard a ship\u0027s passengers from monsters, search for hidden treasure, rescue a princess from a castle under siege, and a lot more! \n \nChoose from four playable characters (Empress, Warrior, Shinobi, or Witch) and defeat your enemies to gain experience and level up. You\u0027ll receive points as you level up that can increase your attack power, defense, agility, and other parameters. Customize your character in a way that best suits your individual playstyle! \n \nTeam up with up to four players in co-op multiplayer action via local wireless, or go online with Nintendo Switch Online and use worldwide matchmaking system to play with adventurers all over the world. By strategizing and working together with your party, you\u0027ll be able to achieve even greater results and reap even better rewards! \n \nGet ready to experience the unique, dark fantasy world of the Dragonblood Clan in this intense 2D action-RPG!"
+      },
+      {
+        "id": 81249,
+        "cover": {
+          "id": 91183,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ycv.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "The Elder Scrolls VI",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 170924,
+            "human": "TBD"
+          }
+        ],
+        "summary": "The long awaited next installment in the Elder Scrolls franchise."
+      },
+      {
+        "id": 96217,
+        "cover": {
+          "id": 72919,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1k9j.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Eternity: The Last Unicorn",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 60.0,
+        "rating_count": 1,
+        "release_dates": [
+          {
+            "id": 165339,
+            "human": "2019-Mar-05"
+          },
+          {
+            "id": 165457,
+            "human": "2019-Mar-05"
+          },
+          {
+            "id": 167459,
+            "human": "2019-Apr-16"
+          }
+        ],
+        "summary": "A fully featured RPG with classic game mechanics and extensive lore based on Norse mythology. As all elven unicorns were taken away and cursed by witchcraft, the elves’ sole existence became endangered. Players will encounter mesmerizing locations and fantasy characters as Aurehen, a young pure Elf, who undertakes her quest to free the last surviving Unicorn that protects Elven immortality."
+      },
+      {
+        "id": 101608,
+        "cover": {
+          "id": 69296,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hgw.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "ANIMA: GATE OF MEMORIES - THE NAMELESS CHRONICLES",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 60.0,
+        "rating_count": 3,
+        "release_dates": [
+          {
+            "id": 152977,
+            "human": "2018-Jun-19"
+          },
+          {
+            "id": 152978,
+            "human": "2018-Jun-19"
+          },
+          {
+            "id": 152979,
+            "human": "2018-Jun-19"
+          }
+        ],
+        "summary": "Anima The Nameless Chronicles is a third person action RPG that tells the story of a man without name, an immortal being cursed to walk the world until the end of time. When a shadow of his past rises again in his path, he will be forced to take part in a conflict in which the very existence is in question. But... Will he be our last hope, or our doom? Accompany him on a travel through his past lives and discover the secret story behind the Gate of Memories. The Nameless Chronicles is the second videogame set in the world of Gaia, from the Anima: Beyond Fantasy RPG table-top books. You will enjoy a deep and multifaceted story where your choices and actions directly impact the journey and decide the fate of the protagonist."
+      },
+      {
+        "id": 103303,
+        "cover": {
+          "id": 91145,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ybt.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "The Elder Scrolls: Blades",
+        "platforms": [
+          {
+            "id": 34,
+            "name": "Android"
+          },
+          {
+            "id": 39,
+            "name": "iOS"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 41.8530543403039,
+        "rating_count": 13,
+        "release_dates": [
+          {
+            "id": 167170,
+            "human": "2019-Mar-28"
+          },
+          {
+            "id": 167171,
+            "human": "2019-Mar-28"
+          },
+          {
+            "id": 185072,
+            "human": "2020"
+          }
+        ],
+        "summary": "Take the Elder Scrolls anywhere you go with The Elder Scrolls: Blades. Revealed during the 2018 Bethesda E3 Showcase, Blades is an all-new Elder Scrolls game from Bethesda Game Studios. Launching in winter 2019, Blades will be free-to-play on iPhone, iPad and Android devices."
+      },
+      {
+        "id": 106987,
+        "cover": {
+          "id": 67685,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4nibsaci6ibuvpci9hc.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Torchlight III",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 179891,
+            "human": "2020"
+          },
+          {
+            "id": 179892,
+            "human": "2020"
+          },
+          {
+            "id": 179893,
+            "human": "2020"
+          }
+        ],
+        "summary": "Set in the same beloved universe as Torchlight I and II, this shared-world action-RPG brings back many of the franchise’s signature features and mechanics that captured the hearts of ARPG fans around the world. Led by former Runic Games and Blizzard North co-founder, Max Schaefer, the team developing Torchlight Frontiers is comprised of veteran developers who were responsible for the games that defined the ARPG genre, including the original Diablo and Torchlight franchises. \n \nTorchlight Frontiers combines the heart of the beloved Torchlight series with a shared, persistent and dynamically generated world. In true Torchlight style, players will team up with friends and devoted pets to hack and slack their way through a vibrant world, discover ancient ruins of lost civilizations and brave dungeons filled with riches and dangerous creatures."
+      },
+      {
+        "id": 116530,
+        "cover": {
+          "id": 81900,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r70.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Vampire: The Masquerade - Bloodlines 2",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 180883,
+            "human": "2020"
+          },
+          {
+            "id": 180884,
+            "human": "2020"
+          },
+          {
+            "id": 180885,
+            "human": "2020"
+          }
+        ],
+        "summary": "Written by Brian Mitsoda, the creative mind behind the original, Vampire: The Masquerade - Bloodlines 2 brings the ambitions of the first to life and sees the return of a few fan favorite characters. Those narrative ambitions are bolstered by Cara Ellison, exploring the effects of the mass embrace on regular Seattleites."
+      },
+      {
+        "id": 119171,
+        "cover": {
+          "id": 94031,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20jz.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 15,
+            "name": "Strategy"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Baldur\u0027s Gate III",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 170,
+            "name": "Google Stadia"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 170322,
+            "human": "TBD"
+          },
+          {
+            "id": 174726,
+            "human": "TBD"
+          }
+        ],
+        "summary": "An ancient evil has returned to Baldur\u0027s Gate, intent on devouring it from the inside out. The fate of Faerun lies in your hands. Alone, you may resist. But together, you can overcome."
+      }
+    ]
+  },
+  {
+    "id": 42982,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Dark Souls - Limited Edition",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 89734,
+        "human": "2011-Nov-04"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 28010,
+        "cover": {
+          "id": 69273,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hg9.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "God Eater 3",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 80.0,
+        "rating_count": 3,
+        "release_dates": [
+          {
+            "id": 158315,
+            "human": "2018-Dec-13"
+          },
+          {
+            "id": 160587,
+            "human": "2019-Feb-08"
+          },
+          {
+            "id": 160588,
+            "human": "2019-Feb-08"
+          },
+          {
+            "id": 160589,
+            "human": "2019-Feb-08"
+          },
+          {
+            "id": 171982,
+            "human": "2019-Jul-12"
+          }
+        ],
+        "summary": "All of sudden, unknown life forms called “Oracle cells” begin their uncontrolled consumption of all life on Earth. Their ravenous appetite “devour” and remarkable adaptability earn them first dread, then awe, and finally the name “Aragami”. In the face of an enemy completely immune to conventional weapons, urban civilization collapses, and each day humanity is driven further and further toward extinction. \n \nOne single ray of hope remains for humanity. Following the development of “God Arcs”—living weapons which incorporate Oracle cells—their wielders, the “God Eaters,” appear. In a world ravaged by mad gods, these “God Eaters” fight a desperate war... \n \nCreate your character, and fight for the survival of human-kind in GOD EATER 3. Select your weapon from a wide range of God Arcs and face brand new Aragamis in dynamic high-speed battles. Explore devastated areas you have never seen in the previous GOD EATER games."
+      },
+      {
+        "id": 36608,
+        "cover": {
+          "id": 44317,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/wfoivsy8fvtvmu2xhd17.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "GOKEN",
+        "platforms": [
+          {
+            "id": 3,
+            "name": "Linux"
+          },
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "rating": 60.0,
+        "rating_count": 0,
+        "release_dates": [
+          {
+            "id": 115126,
+            "human": "2017-Sep-28"
+          },
+          {
+            "id": 115127,
+            "human": "2017-Sep-28"
+          }
+        ],
+        "summary": "\"Action RPG\" A genre that defined adventure and represented the childhood of all gamers, revived, redefined, from Japan, on Steam. GOKEN will bring back everything that was right about gaming in an action packed open world environment and have the old school gamers tremble in nostalgia."
+      },
+      {
+        "id": 54775,
+        "cover": {
+          "id": 75809,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mht.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Shadows: Awakening",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 60.0,
+        "rating_count": 7,
+        "release_dates": [
+          {
+            "id": 155679,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 157999,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 158000,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 158001,
+            "human": "2018-Aug-30"
+          },
+          {
+            "id": 158002,
+            "human": "2018-Aug-30"
+          },
+          {
+            "id": 158003,
+            "human": "2018-Sep-04"
+          },
+          {
+            "id": 158004,
+            "human": "2018-Sep-04"
+          }
+        ],
+        "summary": "Shadows: Awakening is a unique, isometric single-player RPG with real-time tactical combat. You embark on an epic adventure with challenging gameplay, a gripping storyline and enchanting graphics."
+      },
+      {
+        "id": 57372,
+        "cover": {
+          "id": 76314,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mvu.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Soulworker",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 173033,
+            "human": "2016-Apr-06"
+          },
+          {
+            "id": 173034,
+            "human": "2018-Feb-26"
+          }
+        ],
+        "summary": "Soulworker is an anime action MMORPG which takes place in the Cloudrealm, a now vacant city which only harbors the psychics and a horde of monsters. Players will learn about the fate of the city and the reason for the disappearance of all inhabitants through the course of the game, as well as possibly finding a way to reverse this catastrophe."
+      },
+      {
+        "id": 76253,
+        "cover": {
+          "id": 82048,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rb4.jpg"
+        },
+        "genres": [
+          {
+            "id": 25,
+            "name": "Hack and slash/Beat \u0027em up"
+          }
+        ],
+        "name": "Devil May Cry 5",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 85.3579421703339,
+        "rating_count": 158,
+        "release_dates": [
+          {
+            "id": 161927,
+            "human": "2019-Mar-08"
+          },
+          {
+            "id": 161928,
+            "human": "2019-Mar-08"
+          },
+          {
+            "id": 161929,
+            "human": "2019-Mar-08"
+          }
+        ],
+        "summary": "A brand new entry in the legendary over-the-top action series comes to Xbox One, PlayStation 4, and PC in Spring 2019, complete with its signature blend of high-octane stylized action and otherworldly and original characters the series is known for. Director Hideaki Itsuno and the core team have reunited to create the most over the top, technically advanced, utterly insane action experience of this generation. \n \nYears have passed since the legions of hell have set foot in this world, but now a new demonic invasion has begun, and humanity’s last hope will rest in the hands of three lone demon hunters, each offering a radically different play style. United by fate and a thirst for vengeance, these demon hunters will have to face their demons if they hope to survive."
+      },
+      {
+        "id": 78632,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Untitled Danganronpa Game",
+        "platforms": [
+          {
+            "id": 46,
+            "name": "PlayStation Vita"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 179573,
+            "human": "TBD"
+          },
+          {
+            "id": 179574,
+            "human": "TBD"
+          }
+        ],
+        "summary": "An untitled game said to be in development after a job listing was spotted in November related to the Danganronpa series. \nThe posted job listing was looking for a game programmer, character designer, and 3D designer to mainly participate in development of the series, along with information about a game in the action genre for PlayStation 4 and PlayStation Vita."
+      },
+      {
+        "id": 90099,
+        "cover": {
+          "id": 90418,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xrm.jpg"
+        },
+        "genres": [
+          {
+            "id": 5,
+            "name": "Shooter"
+          },
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Tom Clancy\u0027s The Division 2",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 170,
+            "name": "Google Stadia"
+          }
+        ],
+        "rating": 74.2606512840873,
+        "rating_count": 67,
+        "release_dates": [
+          {
+            "id": 153726,
+            "human": "2019-Mar-15"
+          },
+          {
+            "id": 153727,
+            "human": "2019-Mar-15"
+          },
+          {
+            "id": 153728,
+            "human": "2019-Mar-15"
+          },
+          {
+            "id": 174467,
+            "human": "TBD"
+          }
+        ],
+        "summary": "The Division 2 is an action-shooter RPG set in an open-world. Play in co-op and PvP modes that offer more variety in missions and challenges, new progression systems with unique twists and surprises, and fresh gaming innovations to engage players for years to come."
+      },
+      {
+        "id": 103282,
+        "cover": {
+          "id": 69738,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ht6.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Sekiro: Shadows Die Twice - Collector\u0027s Edition",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 183486,
+            "human": "2019-Mar-22"
+          },
+          {
+            "id": 183487,
+            "human": "2019-Mar-22"
+          },
+          {
+            "id": 183488,
+            "human": "2019-Mar-22"
+          }
+        ],
+        "summary": "The Sekiro: Shadows Die Twice Collector’s Edition includes: \n \n7” Shinobi Statue. \nSteelBook. \nCollectible Artbook. \nMap. \nDigital Soundtrack. \nReplica Game Coins."
+      },
+      {
+        "id": 106987,
+        "cover": {
+          "id": 67685,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/f4nibsaci6ibuvpci9hc.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Torchlight III",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 179891,
+            "human": "2020"
+          },
+          {
+            "id": 179892,
+            "human": "2020"
+          },
+          {
+            "id": 179893,
+            "human": "2020"
+          }
+        ],
+        "summary": "Set in the same beloved universe as Torchlight I and II, this shared-world action-RPG brings back many of the franchise’s signature features and mechanics that captured the hearts of ARPG fans around the world. Led by former Runic Games and Blizzard North co-founder, Max Schaefer, the team developing Torchlight Frontiers is comprised of veteran developers who were responsible for the games that defined the ARPG genre, including the original Diablo and Torchlight franchises. \n \nTorchlight Frontiers combines the heart of the beloved Torchlight series with a shared, persistent and dynamically generated world. In true Torchlight style, players will team up with friends and devoted pets to hack and slack their way through a vibrant world, discover ancient ruins of lost civilizations and brave dungeons filled with riches and dangerous creatures."
+      },
+      {
+        "id": 115280,
+        "cover": {
+          "id": 75082,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1lxm.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Oninaki",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 50.0,
+        "rating_count": 2,
+        "release_dates": [
+          {
+            "id": 171034,
+            "human": "2019-Aug-22"
+          },
+          {
+            "id": 171035,
+            "human": "2019-Aug-22"
+          },
+          {
+            "id": 171036,
+            "human": "2019-Aug-22"
+          }
+        ],
+        "summary": "The all-new Action-RPG, ONINAKI tells the story of one Watcher on a journey to protect Life, after Death."
+      }
+    ],
+    "summary": "A spiritual successor to Demons Souls, the action RPG Dark Souls is set in a rich, dark fantasy universe. Intense action within the dungeons, encounters with terrifying enemies and innovative online features combine for a unique gaming experience. Dark Souls\u0027 world breaks down barriers with a fluid design encourages exploration and promotes an adaptation experience. At a time when the players come face to face with terrifying enemies and find new areas, the infallible system and reward challenge takes possession of everything to offer a sense of achievement without equal."
+  },
+  {
+    "id": 44607,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Dark Souls: Collector\u0027s Edition",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 99789,
+        "human": "2011-Oct-15"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 1449,
+        "cover": {
+          "id": 89510,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x2e.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Suikoden IV",
+        "platforms": [
+          {
+            "id": 8,
+            "name": "PlayStation 2"
+          }
+        ],
+        "rating": 69.978840865254,
+        "rating_count": 8,
+        "release_dates": [
+          {
+            "id": 3581,
+            "human": "2004-Aug-19"
+          }
+        ],
+        "summary": "Suikoden IV features the return of the 108 Stars of Destiny, as well as an enhanced interface in a new oceanic environment. You\u0027ll follow a young knight while he struggles with Rune, which slowly steals the life of its bearer. The game\u0027s strategic battle systems let you attack or cast magic spells with help from other party members. Recruit members of the Stars of Destiny and create a base from the ground up. With a brand-new storyline, characters, and cutscenes, Suikoden IV takes the series to the next level."
+      },
+      {
+        "id": 15452,
+        "cover": {
+          "id": 22227,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/nn86gakutdrx7nyhqbbz.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Ys IV: The Dawn of Ys",
+        "platforms": [
+          {
+            "id": 150,
+            "name": "Turbografx-16/PC Engine CD"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 186909,
+            "human": "1993-Dec-22"
+          }
+        ],
+        "summary": "Two years after defeating Darm and bringing peace to Esteria, Adol returns to the town of Minea with his companion in adventure, Dogi. Everything seems fine as friends are reunited and the people hail their hero, but there’s an unseen evil looming in the air. As Adol goes to the seer Sara, she tells him of an even greater darkness in the land of Celceta and asks the red-haired swordsman to go there and seek the truth behind this mystery. Thus, Adol steals away unnoticed in the middle of the night to embark on his next adventure. \n \nIn Celceta, Adol will learn of the Romun Empire’s ambitions, fight the mysterious Clan of Darkness that seeks to ressurect their long dead leader, and discover the ancient history of Celceta itself as well as its connection to the land of Ys. The last survivor of a forgotten race of winged beings holds the power that may bring back darkness to the land, and only Adol will be able to stop it."
+      },
+      {
+        "id": 16587,
+        "cover": {
+          "id": 85530,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tzu.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Final Fantasy IV",
+        "platforms": [
+          {
+            "id": 7,
+            "name": "PlayStation"
+          },
+          {
+            "id": 19,
+            "name": "Super Nintendo Entertainment System (SNES)"
+          }
+        ],
+        "rating": 81.6147843422068,
+        "rating_count": 106,
+        "release_dates": [
+          {
+            "id": 44615,
+            "human": "1991-Jul-19"
+          },
+          {
+            "id": 158635,
+            "human": "1997"
+          }
+        ],
+        "summary": "Final Fantasy IV is a Role-Playing game, developed by Sting and published by SquareSoft, which was released in Japan in 2002."
+      },
+      {
+        "id": 25636,
+        "cover": {
+          "id": 82102,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rcm.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Nights of Azure 2: Bride of the New Moon",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 46,
+            "name": "PlayStation Vita"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 70.0,
+        "rating_count": 3,
+        "release_dates": [
+          {
+            "id": 88204,
+            "human": "2017-Oct-24"
+          },
+          {
+            "id": 88205,
+            "human": "2017-Oct-24"
+          },
+          {
+            "id": 88206,
+            "human": "2017-Oct-24"
+          },
+          {
+            "id": 112913,
+            "human": "2017-Aug-31"
+          },
+          {
+            "id": 112914,
+            "human": "2017-Aug-31"
+          },
+          {
+            "id": 135052,
+            "human": "2017-Oct-24"
+          },
+          {
+            "id": 141808,
+            "human": "2017-Oct-27"
+          }
+        ],
+        "summary": "Nights of Azure 2: Bride of the New Moon takes place in a fictional, demon-ridden Western European city towards the end of the 19th century. The story focuses on a knight protector named Alushe and her two childhood friends – Liliana, a kind-hearted priestess, and Ruhenheid, a holy knight of the Lourdes Order. While guarding Liliana, Alushe is ambushed and killed only to later awaken as an artificial half-demon at the hands of the New Curia, a religious organization with dark ties. In the company of a variety of unlikely allies with their own pasts and agendas, Alushe’s strong desire to save Liliana gives her the strength to scatter the shadows shrouding the world and motivation to uncover the shocking truth behind the mysterious Queen of the Moon."
+      },
+      {
+        "id": 35737,
+        "cover": {
+          "id": 40115,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/ikyu6xlrsnyspoi85pzz.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Red Stone Online",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 82116,
+            "human": "2015-Apr"
+          }
+        ],
+        "summary": "Red Stone is an online 2.5D Ultimate Transformation MMORPG! \nThe story of Red Stone begins in the fantasy world of Prandel as players go on an adventurous quest to search for a mystical red stone \nthat fell from the Celestial World."
+      },
+      {
+        "id": 49414,
+        "cover": {
+          "id": 81916,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r7g.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Oriental Blue",
+        "platforms": [
+          {
+            "id": 24,
+            "name": "Game Boy Advance"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 178424,
+            "human": "2003-Oct-24"
+          }
+        ],
+        "summary": "Oriental Blue: Ao No Tengaiis an RPG from the Far East of Eden series. It has a unique magic system and different pathways the story can take depending on in-game choices. \n \nThe game continues the tradition of Tengai Makyou series, also known as \"Far East of Eden\". You play as either Tenran or Aoi, a teenage boy and girl, respectively, on quest to defeat the ancient evil that threatens the prosperous land of Jipang, to prove themselves worthy of the legendary Fire Clan, warriors who have been protecting Jipang for many generations from evil demons and warlocks. The land Jipang is very similar to medieval Japan, and during your adventure you\u0027ll also visit Mongolia, China, and other Asian countries. \n \nThe most important new feature of the game is a non-linear storyline. You can tackle many missions in any order you want, and the storyline also changes depending on the outcome of major battles. If you lose against a boss enemy, the game is not over, but instead, a branching storyline path is revealed. Otherwise, the gameplay is similar to other Tengai Makyou games, featuring overworld map traveling and first person perspective, turn-based combat."
+      },
+      {
+        "id": 51213,
+        "cover": {
+          "id": 81945,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r89.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Aion: The Tower of Eternity",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 97139,
+            "human": "2009-Dec-25"
+          }
+        ],
+        "summary": "In the beginning, Aion benevolently watched over his world Atreia. He created the humans, and the Balaur to safeguard and watch over them. Eventually, the Balaur became obsessed with power and subjugation. Five of the Balaur rose to a height of strength above the rest, and became known as the five Dragon Lords. When Aion refused to grant them the power they desired, the power to rival his own, they revolted and declared war on the god that created them. Aion\u0027s hand was forced, and he created the twelve Empyrean Lords, beings of divinity and power to protect the Tower of Eternity. \n \nSome humans \"ascended\" to become Daeva and, like the Empyrean Lords, had wings and the ability to fight the Balaur. With time, enough Daevas rose to form an army. The Empyrean Lords would lead the Daeva into battle and fight ceaselessly. Eventually an attempt at peace with the Balaur was made. The five Drakan Lords were invited inside the barrier for peace talks, but before the peace-talks could begin, one of the Drakan Lords was nearly assassinated by an unknown assailant. In the fighting that followed, the Tower of Eternity was destroyed, resulting in the cataclysm that broke Atreia in half. Five Empyrean Lords, most of whom opposed the peace treaty, came to power in the dark part of the world, \"Asmodae,\" and became known as the Shedim Lords. Another five who had mostly desired peace became the Seraphim Lords and ruled over the lower half of Atreia, \"Elysea.\" Two of the Empyrean Lords sacrificed themselves to keep Atreia from crumbling entirely. \n \nThose that lived in the light part of the world, the Elyos, saw little change. These followers of the Seraphim Lords created the city of Sanctum. The inhabitants of the upper part, the Asmodians, saw many changes. Their hands became claw-like, their feet became talons. The darkness made their complexion cool, and their eyes grew red adapting to the absence of light. They live in the city of Pandaemonium under the rule of the Shedim Lords."
+      },
+      {
+        "id": 103303,
+        "cover": {
+          "id": 91145,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ybt.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "The Elder Scrolls: Blades",
+        "platforms": [
+          {
+            "id": 34,
+            "name": "Android"
+          },
+          {
+            "id": 39,
+            "name": "iOS"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 41.8530543403039,
+        "rating_count": 13,
+        "release_dates": [
+          {
+            "id": 167170,
+            "human": "2019-Mar-28"
+          },
+          {
+            "id": 167171,
+            "human": "2019-Mar-28"
+          },
+          {
+            "id": 185072,
+            "human": "2020"
+          }
+        ],
+        "summary": "Take the Elder Scrolls anywhere you go with The Elder Scrolls: Blades. Revealed during the 2018 Bethesda E3 Showcase, Blades is an all-new Elder Scrolls game from Bethesda Game Studios. Launching in winter 2019, Blades will be free-to-play on iPhone, iPad and Android devices."
+      },
+      {
+        "id": 103337,
+        "cover": {
+          "id": 66396,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfvhueojjdulqgc1qavs.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Divinity: Original Sin II - Definitive Edition",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 87.16660907262121,
+        "rating_count": 15,
+        "release_dates": [
+          {
+            "id": 154609,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 157146,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 157147,
+            "human": "2018-Aug-31"
+          },
+          {
+            "id": 164550,
+            "human": "2019-Jan-31"
+          }
+        ],
+        "summary": "There can only be one God. The Divine is dead. The Void approaches. And the powers lying dormant within you are soon to awaken. The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart. Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God, in multi-award winning RPG Divinity: Original Sin 2."
+      },
+      {
+        "id": 104236,
+        "cover": {
+          "id": 66948,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/ns2bgbsszgeb9vq6qsjp.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          }
+        ],
+        "name": "Battleheart 2",
+        "platforms": [
+          {
+            "id": 34,
+            "name": "Android"
+          },
+          {
+            "id": 39,
+            "name": "iOS"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 154452,
+            "human": "2018-Jul-12"
+          },
+          {
+            "id": 188393,
+            "human": "2018-Jul-26"
+          }
+        ],
+        "summary": "Welcome back to the world of Battleheart! \n \nIn this stunning sequel to 2011\u0027s hit mobile RPG, you\u0027ll take command of a party of heroes and slay hordes of monsters in frantic, realtime battles that will put your reflexes to the test. With each victory you\u0027ll face ever greater dangers, and grow more powerful through a robust equipment and skill system offering vast combinations of heroes, items and abilities. \n \nFeatures: \n• 12 unique heroes to build your party from, including mages, knights, necromancers, samurai, and more! \n• Customize your heroes\u0027 abilities by selecting among 20 talents that augment their powers. \n• Play alone, or enjoy co-op multiplayer supporting up to 4 players. \n• 20+ unique monsters to battle, including 5 challenging bosses. \n• 130+ unique items to collect and arm your heroes with. \n• Adjustable difficulty, allowing the game to be enjoyed by seasoned players and beginners alike."
+      }
+    ]
+  },
+  {
+    "id": 47798,
+    "cover": {
+      "id": 47849,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/ttk93kp1vrnbznt7cuxn.jpg"
+    },
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Soul of Darkness",
+    "platforms": [
+      {
+        "id": 20,
+        "name": "Nintendo DS"
+      },
+      {
+        "id": 159,
+        "name": "Nintendo DSi"
+      }
+    ],
+    "rating": 78.0,
+    "rating_count": 1,
+    "release_dates": [
+      {
+        "id": 94457,
+        "human": "2010-Aug-05"
+      },
+      {
+        "id": 143359,
+        "human": "2010-Jul-05"
+      },
+      {
+        "id": 143360,
+        "human": "2010-Jul-16"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 18225,
+        "cover": {
+          "id": 74152,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1l7s.jpg"
+        },
+        "genres": [
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "The Sinking City",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 80.98323107750589,
+        "rating_count": 23,
+        "release_dates": [
+          {
+            "id": 169915,
+            "human": "2019-Jun-27"
+          },
+          {
+            "id": 169916,
+            "human": "2019-Jun-27"
+          },
+          {
+            "id": 169917,
+            "human": "2019-Jun-27"
+          },
+          {
+            "id": 175737,
+            "human": "2019-Sep-12"
+          }
+        ],
+        "summary": "The Sinking City is a game of investigation genre taking place in a fictional open world inspired by the works of H.P. Lovecraft. \nThe player incarnates a private investigator in 1920s, who finds himself in a city of New England, Oakmont Massachusetts. It’s currently suffering from extensive waterflood, and its cause is clearly supernatural."
+      },
+      {
+        "id": 19817,
+        "cover": {
+          "id": 81892,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r6s.jpg"
+        },
+        "genres": [
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Scorn",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 183309,
+            "human": "2020"
+          }
+        ],
+        "summary": "Scorn is an atmospheric first person horror adventure game set in a nightmarish universe of odd forms and somber tapestry. It is designed around an idea of \"being thrown into the world\". Isolated and lost inside this dream-like world you will explore different interconnected regions in a non-linear fashion. The unsettling environment is a character itself. Every location contains its own theme (story), puzzles and characters that are integral in creating a cohesive lived in world. Throughout the game you will open up new areas, acquire different skill sets, weapons, various items and try to comprehend the sights presented to you."
+      },
+      {
+        "id": 25646,
+        "cover": {
+          "id": 82168,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1reg.jpg"
+        },
+        "genres": [
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Don\u0027t Knock Twice",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 45,
+            "name": "PlayStation Network"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 69.8859132941035,
+        "rating_count": 7,
+        "release_dates": [
+          {
+            "id": 88182,
+            "human": "2017-Aug-28"
+          },
+          {
+            "id": 88183,
+            "human": "2017-Aug-28"
+          },
+          {
+            "id": 109361,
+            "human": "2017-Sep-05"
+          },
+          {
+            "id": 119942,
+            "human": "2017-Sep-05"
+          },
+          {
+            "id": 123364,
+            "human": "2017-Oct-17"
+          },
+          {
+            "id": 134642,
+            "human": "2017-Sep-05"
+          }
+        ],
+        "summary": "Don\u0027t Knock Twice is a first-person horror game based on a psychologically terrifying urban legend. To save her estranged daughter, a guilt-ridden mother must uncover the frightening truth behind the urban tale of a vengeful, demonic witch. One knock to wake her from her bed, twice to raise her from the dead. \n \nExplore a grand manor house and interact with almost every object you see. To find and save your daughter, you will explore all depths of the manor, searching for hidden clues and using items to fight or escape the terror that surrounds you. \n \nThe game is based on the film, Don\u0027t Knock Twice, starring Katee Sackhoff (Battlestar Galactica) and directed by Caradog James (The Machine)."
+      },
+      {
+        "id": 27092,
+        "cover": {
+          "id": 79980,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ppo.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 15,
+            "name": "Strategy"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "GreedFall",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          }
+        ],
+        "rating": 83.4473150928752,
+        "rating_count": 28,
+        "release_dates": [
+          {
+            "id": 171890,
+            "human": "2019-Sep-10"
+          },
+          {
+            "id": 171891,
+            "human": "2019-Sep-10"
+          },
+          {
+            "id": 171892,
+            "human": "2019-Sep-10"
+          }
+        ],
+        "summary": "Explore a fresh new world as you set foot - alongside many other settlers, mercenaries and treasure hunters - on a remote island seeping with magic, rumored to be filled with riches and lost secrets. \n \nGreedFall aims for a very unique visual identity, inspired by Baroque art from 17th Century Europe, depicting grandiose sceneries in muted warm colors and dark undertones. \n \nA grand journey filled with mystery follows, as you find yourself in the middle of ever-increasing tensions between the invading settlers and the locals, protected by supernatural beings, manifestation of the island\u0027s earthly magic. \n \nWith a strong focus on its core RPG identity, GreedFall follows Spiders’ experience in building intricate worlds filled with mysteries to discover, weaving deep character interactions, and offering players great freedom to achieve quests and objectives in a multitude of different ways – through combat of course, but also through diplomacy, deception or stealth."
+      },
+      {
+        "id": 28309,
+        "cover": {
+          "id": 67083,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/zlb0ljqmgn8tc8vv3mij.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Tanzia",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 70.0,
+        "rating_count": 0,
+        "release_dates": [
+          {
+            "id": 154621,
+            "human": "2018-Jul-19"
+          },
+          {
+            "id": 166793,
+            "human": "2019-Mar-28"
+          }
+        ],
+        "summary": "An Adventure RPG in comic book style with an island setting of treasure chests and waterfalls, Tanzia combines elements of favorite classic RPGs in an open 3D world of magic and monsters."
+      },
+      {
+        "id": 30245,
+        "cover": {
+          "id": 70041,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1i1l.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Wanderlust Adventures",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "rating": 50.0,
+        "rating_count": 0,
+        "release_dates": [
+          {
+            "id": 71849,
+            "human": "2015-Aug-10"
+          }
+        ],
+        "summary": "Wanderlust Adventures is an online, free-roaming, open world, action adventure RPG. Join fellow heroes online, explore vast and deadly landscapes, and capture companions to aid you in your quest. Forge powerful items, salvage artifacts, and crush the souls of menacing foes!"
+      },
+      {
+        "id": 36198,
+        "cover": {
+          "id": 80516,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1q4k.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Children of Morta",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 67.8371433516608,
+        "rating_count": 24,
+        "release_dates": [
+          {
+            "id": 174008,
+            "human": "2019-Sep-03"
+          },
+          {
+            "id": 174009,
+            "human": "2019-Sep-03"
+          },
+          {
+            "id": 174010,
+            "human": "2019-Oct-15"
+          },
+          {
+            "id": 174011,
+            "human": "2019-Oct-15"
+          },
+          {
+            "id": 174012,
+            "human": "2019-Oct-15"
+          }
+        ],
+        "summary": "Children of Morta is a narrative driven hack and slash roguelike. Take on the role of a member of the Bergson family, the Guardians of Mount Morta, as you fight desperately against the Corruption. Experience not only what it means to be a hero, but to be part of a family that bears the weight of the mountain together."
+      },
+      {
+        "id": 55092,
+        "cover": {
+          "id": 91030,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y8m.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Secret of Mana",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 45,
+            "name": "PlayStation Network"
+          },
+          {
+            "id": 46,
+            "name": "PlayStation Vita"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          }
+        ],
+        "rating": 66.947775836475,
+        "rating_count": 10,
+        "release_dates": [
+          {
+            "id": 110449,
+            "human": "2018-Feb-15"
+          },
+          {
+            "id": 110450,
+            "human": "2018-Feb-15"
+          },
+          {
+            "id": 110451,
+            "human": "2018-Feb-15"
+          },
+          {
+            "id": 147890,
+            "human": "2018-Feb-15"
+          }
+        ],
+        "summary": "\"The memorable adventure of Randi, Primm and Popoi is reborn as \"Secret of Mana\"! \nEmbark on an action-packed, worldwide adventure in this 3D remake.\""
+      },
+      {
+        "id": 55199,
+        "cover": {
+          "id": 81874,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r6a.jpg"
+        },
+        "genres": [
+          {
+            "id": 12,
+            "name": "Role-playing (RPG)"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          }
+        ],
+        "name": "Dragon: Marked for Death",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 83.0,
+        "rating_count": 2,
+        "release_dates": [
+          {
+            "id": 162428,
+            "human": "2019-Jan-31"
+          },
+          {
+            "id": 192658,
+            "human": "2020-Apr-21"
+          }
+        ],
+        "summary": "Dragon Marked For Death is a side-scrolling 2D action RPG that can played solo or with up to four players in local or online multiplayer. \n \nThe playable characters in Dragon Marked for Death: Frontline Fighters are the Empress and Warrior. \n \nYou play as the survivors of the Dragonblood Clan who set out to take revenge on the Kingdom of Medius, who destroyed their home and captured the Dragonblood Oracle, Amica. To obtain the power they need to enact their revenge, they forge a pact with the Astral Dragon Atruum. \n \nUse your newly acquired powers to take on quests from villagers and raise your status in the kingdom. How you perform in these quests can have a direct effect on the game\u0027s final outcome. \n \nQuests aren\u0027t all about defeating enemies, though. You\u0027ll guard a ship\u0027s passengers from monsters, search for hidden treasure, rescue a princess from a castle under siege, and a lot more! \n \nChoose from four playable characters (Empress, Warrior, Shinobi, or Witch) and defeat your enemies to gain experience and level up. You\u0027ll receive points as you level up that can increase your attack power, defense, agility, and other parameters. Customize your character in a way that best suits your individual playstyle! \n \nTeam up with up to four players in co-op multiplayer action via local wireless, or go online with Nintendo Switch Online and use worldwide matchmaking system to play with adventurers all over the world. By strategizing and working together with your party, you\u0027ll be able to achieve even greater results and reap even better rewards! \n \nGet ready to experience the unique, dark fantasy world of the Dragonblood Clan in this intense 2D action-RPG!"
+      },
+      {
+        "id": 56033,
+        "cover": {
+          "id": 82165,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1red.jpg"
+        },
+        "genres": [
+          {
+            "id": 8,
+            "name": "Platform"
+          },
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Dream Alone",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 82.0,
+        "rating_count": 1,
+        "release_dates": [
+          {
+            "id": 154752,
+            "human": "2018-Jun-28"
+          },
+          {
+            "id": 154753,
+            "human": "2018-Jun-28"
+          }
+        ],
+        "summary": "2D platform game with classic platform gameplay, deadly traps, dark storyline and unique hero abilities, all in Tim Burton\u0027s-like audio-visual."
+      }
+    ],
+    "summary": "Enter a fascinating gothic world as Kale, a mysterious, powerful man. Try to save your beloved\u0027s life and soul and get her out of an evil vampire\u0027s clutches. Explore dark woods and caves, huge castles and cathedrals under the full moon\u0027s light. Master and upgrade your sword and spear, and learn how to control your powers: use the Fire and the Ice, or transform into your enemies. Face and defeat werewolves, gargoyles, zombies, and more, with a customized hero thanks to the exclusive camera features. Good or evil - be the sole master of your destiny!"
+  },
+  {
+    "id": 10139,
+    "cover": {
+      "id": 72939,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ka3.jpg"
+    },
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Dark Fall: Lost Souls",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "rating": 50.0,
+    "rating_count": 4,
+    "release_dates": [
+      {
+        "id": 35595,
+        "human": "2009"
+      },
+      {
+        "id": 190057,
+        "human": "2010-Apr-21"
+      }
+    ],
+    "similar_games": [
+      {
+        "id": 13189,
+        "cover": {
+          "id": 81889,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r6p.jpg"
+        },
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Masochisia",
+        "platforms": [
+          {
+            "id": 3,
+            "name": "Linux"
+          },
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          }
+        ],
+        "rating": 52.08194670706899,
+        "rating_count": 7,
+        "release_dates": [
+          {
+            "id": 38187,
+            "human": "2015-Oct-09"
+          },
+          {
+            "id": 38188,
+            "human": "2015-Oct-09"
+          },
+          {
+            "id": 38189,
+            "human": "2015-Oct-09"
+          }
+        ],
+        "summary": "A young man discovers through a series of hallucinations that he will grow up to become a violent psychopath. How will he respond to these revelations? Can he change his fate? Can you even... change fate..."
+      },
+      {
+        "id": 18011,
+        "cover": {
+          "id": 75964,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mm4.jpg"
+        },
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Rusty Lake Hotel",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 34,
+            "name": "Android"
+          },
+          {
+            "id": 39,
+            "name": "iOS"
+          }
+        ],
+        "rating": 62.046821339623,
+        "rating_count": 27,
+        "release_dates": [
+          {
+            "id": 47106,
+            "human": "2016-Jan-29"
+          },
+          {
+            "id": 64000,
+            "human": "2016-Jan-29"
+          },
+          {
+            "id": 147511,
+            "human": "2015-Dec-14"
+          }
+        ],
+        "summary": "Welcome our guests to the Rusty Lake Hotel and make sure they will have a pleasant stay. There will be 5 dinners this week. Make sure every dinner is worth dying for. \n \nRusty Lake Hotel is a mysterious point and click game developed by the creators of the intriguing Cube Escape series."
+      },
+      {
+        "id": 18841,
+        "cover": {
+          "id": 82269,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rh9.jpg"
+        },
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Gibbous - A Cthulhu Adventure",
+        "platforms": [
+          {
+            "id": 3,
+            "name": "Linux"
+          },
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          }
+        ],
+        "rating": 69.96411994103221,
+        "rating_count": 7,
+        "release_dates": [
+          {
+            "id": 172673,
+            "human": "2019-Aug-07"
+          },
+          {
+            "id": 172674,
+            "human": "2019-Aug-07"
+          },
+          {
+            "id": 172675,
+            "human": "2019-Aug-07"
+          }
+        ],
+        "summary": "Gibbous - A Cthulhu Adventure is a comedy point \u0027n click love letter to classic-era Lucas adventures, HP Lovecraft, Hitchcock and many, many others. A lighthearted spoof of the Cthulhu Mythos, Gibbous will have you controlling 3 protagonists, dealing with strange cultists, ancient voodoo, and Dead Cthulhu himself. Well, \"dead\" is just a matter of opinion... \nEverything revolves around the dreaded Necronomicon and how it affects the protagonists\u0027 lives. Grizzled detective Don R. Ketype wants it because he always gets his man (or book); and easy going, easy living librarian Buzz Kerwan stumbles upon it and accidentally transforms his cat, Kitteh, into a talking abomination, thus setting on a quest to return her back to cathood."
+      },
+      {
+        "id": 19817,
+        "cover": {
+          "id": 81892,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r6s.jpg"
+        },
+        "genres": [
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Scorn",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 183309,
+            "human": "2020"
+          }
+        ],
+        "summary": "Scorn is an atmospheric first person horror adventure game set in a nightmarish universe of odd forms and somber tapestry. It is designed around an idea of \"being thrown into the world\". Isolated and lost inside this dream-like world you will explore different interconnected regions in a non-linear fashion. The unsettling environment is a character itself. Every location contains its own theme (story), puzzles and characters that are integral in creating a cohesive lived in world. Throughout the game you will open up new areas, acquire different skill sets, weapons, various items and try to comprehend the sights presented to you."
+      },
+      {
+        "id": 25222,
+        "cover": {
+          "id": 75965,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mm5.jpg"
+        },
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Rusty Lake: Roots",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 39,
+            "name": "iOS"
+          }
+        ],
+        "rating": 76.7286113438884,
+        "rating_count": 18,
+        "release_dates": [
+          {
+            "id": 59718,
+            "human": "2016-Oct-20"
+          },
+          {
+            "id": 59719,
+            "human": "2016-Oct-20"
+          },
+          {
+            "id": 147540,
+            "human": "2016-Oct-20"
+          }
+        ],
+        "summary": "James Vanderboom\u0027s life drastically changes when he plants a special seed in the garden of the house he has inherited. Expand your bloodline by unlocking portraits in the tree of life."
+      },
+      {
+        "id": 25646,
+        "cover": {
+          "id": 82168,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1reg.jpg"
+        },
+        "genres": [
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Don\u0027t Knock Twice",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 45,
+            "name": "PlayStation Network"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 49,
+            "name": "Xbox One"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 69.8859132941035,
+        "rating_count": 7,
+        "release_dates": [
+          {
+            "id": 88182,
+            "human": "2017-Aug-28"
+          },
+          {
+            "id": 88183,
+            "human": "2017-Aug-28"
+          },
+          {
+            "id": 109361,
+            "human": "2017-Sep-05"
+          },
+          {
+            "id": 119942,
+            "human": "2017-Sep-05"
+          },
+          {
+            "id": 123364,
+            "human": "2017-Oct-17"
+          },
+          {
+            "id": 134642,
+            "human": "2017-Sep-05"
+          }
+        ],
+        "summary": "Don\u0027t Knock Twice is a first-person horror game based on a psychologically terrifying urban legend. To save her estranged daughter, a guilt-ridden mother must uncover the frightening truth behind the urban tale of a vengeful, demonic witch. One knock to wake her from her bed, twice to raise her from the dead. \n \nExplore a grand manor house and interact with almost every object you see. To find and save your daughter, you will explore all depths of the manor, searching for hidden clues and using items to fight or escape the terror that surrounds you. \n \nThe game is based on the film, Don\u0027t Knock Twice, starring Katee Sackhoff (Battlestar Galactica) and directed by Caradog James (The Machine)."
+      },
+      {
+        "id": 26870,
+        "cover": {
+          "id": 70477,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1idp.jpg"
+        },
+        "genres": [
+          {
+            "id": 2,
+            "name": "Point-and-click"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          },
+          {
+            "id": 34,
+            "name": "Visual Novel"
+          }
+        ],
+        "name": "Necrobarista",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 48,
+            "name": "PlayStation 4"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "release_dates": [
+          {
+            "id": 183315,
+            "human": "2020"
+          },
+          {
+            "id": 183316,
+            "human": "2020"
+          },
+          {
+            "id": 183317,
+            "human": "2020"
+          }
+        ],
+        "summary": "Necrobarista is a gorgeous 3D visual novel about a supernatural Melbourne cafe where the dead spend their last night on Earth. Utilizing a unique anime-inspired aesthetic, Necrobarista places a focus on the usage of animation and cinematography to provide a cinematic experience that draws players into a visually and narratively captivating adventure. Through a series of vignettes, Necrobarista presents a story told from the viewpoints of a diverse cast of characters, and explores the supernatural underworld of Melbourne\u0027s cafe scene."
+      },
+      {
+        "id": 54678,
+        "cover": {
+          "id": 72701,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1k3h.jpg"
+        },
+        "genres": [
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Rusty Lake Paradise",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          },
+          {
+            "id": 34,
+            "name": "Android"
+          },
+          {
+            "id": 39,
+            "name": "iOS"
+          }
+        ],
+        "rating": 67.0344042987182,
+        "rating_count": 15,
+        "release_dates": [
+          {
+            "id": 132335,
+            "human": "2018-Jan-11"
+          },
+          {
+            "id": 132336,
+            "human": "2018-Jan-11"
+          },
+          {
+            "id": 132337,
+            "human": "2018-Jan-11"
+          },
+          {
+            "id": 132338,
+            "human": "2018-Jan-11"
+          }
+        ],
+        "summary": "\"Rusty Lake Paradise is set on a small remote island in the 18th Century. After your mother passed away the island seems to be cursed with the 10 plagues. It\u0027s your job to go around the island, interact with your family and help them vanquish the plague. The game offers ominous situations and bizarre rituals. Paradise builds upon the distinctive atmosphere and excitement from the Rusty Lake series. For the background graphics we collaborated with a well-known Dutch artist, Johan Scherft.\""
+      },
+      {
+        "id": 56033,
+        "cover": {
+          "id": 82165,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1red.jpg"
+        },
+        "genres": [
+          {
+            "id": 8,
+            "name": "Platform"
+          },
+          {
+            "id": 9,
+            "name": "Puzzle"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Dream Alone",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 130,
+            "name": "Nintendo Switch"
+          }
+        ],
+        "rating": 82.0,
+        "rating_count": 1,
+        "release_dates": [
+          {
+            "id": 154752,
+            "human": "2018-Jun-28"
+          },
+          {
+            "id": 154753,
+            "human": "2018-Jun-28"
+          }
+        ],
+        "summary": "2D platform game with classic platform gameplay, deadly traps, dark storyline and unique hero abilities, all in Tim Burton\u0027s-like audio-visual."
+      },
+      {
+        "id": 114455,
+        "cover": {
+          "id": 71287,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1j07.jpg"
+        },
+        "genres": [
+          {
+            "id": 15,
+            "name": "Strategy"
+          },
+          {
+            "id": 31,
+            "name": "Adventure"
+          },
+          {
+            "id": 32,
+            "name": "Indie"
+          }
+        ],
+        "name": "Pacify",
+        "platforms": [
+          {
+            "id": 6,
+            "name": "PC (Microsoft Windows)"
+          },
+          {
+            "id": 14,
+            "name": "Mac"
+          }
+        ],
+        "rating": 72.6709891673915,
+        "rating_count": 36,
+        "release_dates": [
+          {
+            "id": 164848,
+            "human": "2019-Feb-22"
+          },
+          {
+            "id": 164849,
+            "human": "2019-Feb-22"
+          }
+        ],
+        "summary": "An indie, multiplayer, horror game with fast paced game play for up to 4 players. Teams will need to explore an eerie mansion with a rumored past of funeral services including contacting deceased loved ones. A scary girl roams the house, and players need to keep her pacified to survive."
+      }
+    ],
+    "summary": "You, The Inspector, have been trying to solve the case of the eerie abduction of young Amy Haven for several years, but were suspended for tampering with evidence to get the primary suspect convicted, the vagabond known as “Mr. Bones”. Now, you return to Dowerton for a last, paranormal search to find Amy Haven, and to learn the secret of the Dark Fall.  \n  \nDowerton; a once picturesque rural village, hidden away in the English countryside. Like many villages, it has been tainted by modernity and economic failure; sallow youths hide in the shadows, losing their minds to chemical slime, while others simply disappear into the woods, never to be seen again. The elders of the village hide indoors, all too aware of the darkness that lurks outside. The once grand Train Station was the heart of the community, but only the very brave, or the very stupid, now approach the place. Adjoining the station is the Victorian Station Hotel. Once a haven for weary travelers and adulterous lovers, the hotel is now in ruins. Rot, decay and time are tearing this place to pieces. This, is where the Dark Fall flourishes.  \n  \nYou must watch your step, and never turn your back on the darkness.... Something evil, unknowable and hungry is hiding in the darkness of these old buildings. It wants your soul; to feed upon, devour and torture. Can you make the ghosts your ally so you can battle against the darkness that lurks in that long forgotten, abandoned Hotel?"
+  }
+]
